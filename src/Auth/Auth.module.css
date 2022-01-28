@@ -1,0 +1,12 @@
+.leftContainer {
+    width: 80%;
+}
+.authWrapper{
+    background-color: #cccccc;
+}
+
+@media screen and (max-width:600px) {
+    .leftContainer {
+        width: 100%;
+    }
+}

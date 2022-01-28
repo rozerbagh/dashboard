@@ -1,0 +1,47 @@
+{
+    "rolesArr": [
+        {
+            "serviceId": "5eb24cc200343f2b792bbba1",
+            "service_name": "VM Manage",
+            "planId": "5eb24f97260bb22c06dc42e8",
+            "plan_name": "Basic Pack",
+            "reports": [
+                {
+                    "reportId": "5fa26468a390aed7bfa14df1",
+                    "report_name": "restart",
+                    "flag": 1
+                },
+                {
+                    "reportId": "5fa268aaa390aed7bfa14dfd",
+                    "report_name": "schedule_reboot",
+                    "flag": 1
+                },
+                {
+                    "reportId": "5fabda117f66ee7bcbd8bf66",
+                    "report_name": "manage",
+                    "flag": 1
+                },
+                {
+                    "reportId": "5fabda1d7f66ee7bcbd8bf67",
+                    "report_name": "billing",
+                    "flag": 1
+                },
+                {
+                    "reportId": "5fabda2b7f66ee7bcbd8bf68",
+                    "report_name": "reports",
+                    "flag": 1
+                },
+                {
+                    "reportId": "5fabf827b7cd21be13e9d9ef",
+                    "report_name": "dashboard_billing",
+                    "flag": 1
+                },
+                {
+                    "reportId": "access_all_instance",
+                    "report_name": "access_all_instance",
+                    "flag": 1
+                }
+            ]
+        }
+    ]
+}

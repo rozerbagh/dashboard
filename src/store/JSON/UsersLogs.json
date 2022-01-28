@@ -1,0 +1,28 @@
+{
+    "message": [
+        {
+            "user_name": "",
+            "user_email": "",
+            "user_phone": "",
+            "status": 0,
+            "message": "Password changed by Primary User",
+            "_id": "60e0c4ed778369623bfd34b5"
+        },
+        {
+            "user_name": "rozer b",
+            "user_email": "rozerbagh456@gmail.com",
+            "user_phone": "8050849022",
+            "status": 1,
+            "message": "Primary User changed name, ",
+            "_id": "60e2e24b06a62c1b9c6d3925"
+        },
+        {
+            "user_name": "rozer",
+            "user_email": "rozerbagh456@gmail.com",
+            "user_phone": "8050849022",
+            "status": 1,
+            "message": "Primary User changed name, ",
+            "_id": "60e2fb5c06a62c1b9c6d3b3a"
+        }
+    ]
+}

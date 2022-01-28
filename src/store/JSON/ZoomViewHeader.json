@@ -1,0 +1,36 @@
+{
+    "message": [
+        {
+            "host_id": "60e59b09b7838789faaab14c",
+            "vm_server_hostname": "10.121.1.132-MCR32VM-FO-MEM",
+            "vm_hostname": "10.121.1.132-MCR32VM-FO-MEM",
+            "power_status": "POWERED_ON",
+            "lan_ip": "10.121.1.132",
+            "wan_ip": "164.44.8.201",
+            "vm_os": "Red Hat Enterprise Linux 7 (64-bit)",
+            "m_type": 0,
+            "network_info": [
+                {
+                    "nic": 4000,
+                    "mac_address": "00:50:56:b2:5b:19",
+                    "network_name": "FO-WAN-202",
+                    "ips": [
+                        "10.121.1.132",
+                        "fe80::250:56ff:feb2:5b19"
+                    ],
+                    "_id": "60e59b09b7838789faaab14d",
+                    "id": "60e59b09b7838789faaab14d"
+                }
+            ],
+            "network": [
+                {
+                    "name": "FO-WAN-202",
+                    "ip": "10.121.1.132"
+                }
+            ],
+            "cpu": 8,
+            "ram": "32 GB",
+            "disk": "300 GB"
+        }
+    ]
+}

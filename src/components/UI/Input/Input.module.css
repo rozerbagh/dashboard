@@ -1,0 +1,25 @@
+.cc_input {
+    background-color: transparent;
+    width: 100%;
+    padding: 10px;
+    margin: 0.5em 0;
+    border-radius: 0.5em;
+    border: 0.0625em solid #132739;
+}
+
+.cc_input:focus,
+.cc_input:active,
+.cc_input:hover,
+.cc_input:host {
+    outline: none;
+    background-color: transparent;
+    border: 1px solid #2F87FF;
+    color: #081b2c;
+}
+
+.cc_input::-webkit-input-placeholder,
+.cc_input:-moz-placeholder,
+.cc_input::-moz-placeholder,
+.cc_input:-ms-input-placeholder {
+    background-color: transparent;
+}

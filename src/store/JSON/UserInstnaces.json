@@ -1,0 +1,46 @@
+{
+    "message": [
+        {
+            "lan_ip": "10.121.1.132",
+            "_id": "60e59b09b7838789faaab151",
+            "vm_hostname_alias": "10.121.1.132-MCR32VM-FO-MEM",
+            "id": "60e59b09b7838789faaab151",
+            "flag": 1
+        },
+        {
+            "lan_ip": "10.121.1.101",
+            "_id": "60e59b09b7838789faaab1dc",
+            "vm_hostname_alias": "10.121.1.101-MCR32VM-AO-WINEX",
+            "id": "60e59b09b7838789faaab1dc",
+            "flag": 0
+        },
+        {
+            "lan_ip": "10.121.1.134",
+            "_id": "60e59b09b7838789faaab1ed",
+            "vm_hostname_alias": "10.121.1.134-MCR32VM-AO-PROD",
+            "id": "60e59b09b7838789faaab1ed",
+            "flag": 0
+        },
+        {
+            "lan_ip": "10.121.1.164",
+            "_id": "60e59b09b7838789faaab209",
+            "vm_hostname_alias": "10.121.1.164-MCR32VM-AO-VEGA",
+            "id": "60e59b09b7838789faaab209",
+            "flag": 0
+        },
+        {
+            "lan_ip": "10.121.1.152",
+            "_id": "60e59b0ab7838789faaab22d",
+            "vm_hostname_alias": "10.121.1.152-MCR32VM-AO-ARROW",
+            "id": "60e59b0ab7838789faaab22d",
+            "flag": 0
+        },
+        {
+            "lan_ip": "10.121.1.156",
+            "_id": "60e59b0ab7838789faaab232",
+            "vm_hostname_alias": "10.121.1.156-MCR32VM-AO-SERV",
+            "id": "60e59b0ab7838789faaab232",
+            "flag": 0
+        }
+    ]
+}

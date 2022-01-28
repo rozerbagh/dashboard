@@ -1,0 +1,29 @@
+.container {
+    position: relative;
+    height: auto;
+    border: 1px solid #ccc;
+    text-align: center;
+    padding: 5px;
+    box-sizing: border-box;
+    border-radius: 2px;
+    background-color: #fff;
+    box-shadow: 0 0 5px rgb(221, 243, 252);
+}
+
+.container::after {
+    content: '';
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    top: 0;
+    left: 50%;
+    margin-left: -5px;
+    border-top: 1px solid #ccc;
+    border-left: 1px solid #ccc;
+    border-right: 1px solid transparent;
+    border-bottom: 1px solid transparent;
+    transform: rotate(45deg);
+    background-color: #fff;
+    margin-top: -5px;
+    border-radius: 1px;
+}

@@ -1,0 +1,40 @@
+{
+    "message": [
+        {
+            "company_name": "Zybisys Consulting Services pvt ltd",
+            "_id": "5eb25f0c37ad1d2e13d2abf9",
+            "user_email": "anshul.reejonia@gmail.com",
+            "user_phone": "9819119678"
+        },
+        {
+            "company_name": "ALICE BLUE FINANCIAL SERVICES PRIVATE LIMITED",
+            "_id": "5ec55dc7db059470d54302f2",
+            "user_email": "aliceblue@gmail.com",
+            "user_phone": "9819229575"
+        },
+        {
+            "company_name": "COMPOSITE INSURANCE BROKERS AND ADVISORS PRIVATE LIMITED",
+            "_id": "5eb290386a476f345ff0c53c",
+            "user_email": "vijay.kumar@gmail.com",
+            "user_phone": "9819229578"
+        },
+        {
+            "company_name": "COMPOSITE INVESTMENTS PRIVATE LIMITED - BROKING",
+            "_id": "5ec55c73c0ece96e69109c97",
+            "user_email": "composite@gmail.com",
+            "user_phone": "9819229577"
+        },
+        {
+            "company_name": "ZEBU SHARE AND WEALTH MANAGEMENTS PRIVATE LIMITED",
+            "_id": "5ec55e1b5307bd71407786f7",
+            "user_email": "zebu@gmail.com",
+            "user_phone": "9819229574"
+        },
+        {
+            "company_name": "HARMONEY WEALTH ADVISORY SERVICES INDIA PRIVATE LIMITED",
+            "_id": "5ec55ed22c4a99722bf273ce",
+            "user_email": "harmoney@gmail.com",
+            "user_phone": "9819229572"
+        }
+    ]
+}

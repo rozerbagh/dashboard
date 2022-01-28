@@ -1,0 +1,859 @@
+{
+    "message": [
+        {
+            "name": "MCR32VM-FO-MEM-SRV",
+            "ip": "10.121.1.132",
+            "config": [
+                {
+                    "subtitle": "",
+                    "_id": "6102351eeb44cc911c250e55",
+                    "title": "cpu load",
+                    "perf_data": "load1=0.63;7.2;8;0;8 load5=0.84;7.2;8;0;8 load15=0.97;7.2;8;0;8",
+                    "details": "OK - 15 min load 0.97 at 8 Cores (0.12 per Core)",
+                    "state": "OK",
+                    "last_time": 1620209208
+                },
+                {
+                    "subtitle": "",
+                    "_id": "6102351eeb44cc911c250e56",
+                    "title": "cpu utilization",
+                    "perf_data": "user=11.118792;;;; system=4.719412;;;; wait=0;;;; steal=0;;;; guest=0;;;;",
+                    "details": "OK - user: 11.1%, system: 4.7%, wait: 0.0%, steal: 0.0%, guest: 0.0%, total: 15.8%",
+                    "state": "OK",
+                    "last_time": 1571881035
+                },
+                {
+                    "subtitle": "",
+                    "_id": "6102351eeb44cc911c250e57",
+                    "title": "check_mk",
+                    "perf_data": "execution_time=0.145 user_time=0.020 system_time=0.000 children_user_time=0.000 children_system_time=0.000 cmk_time_agent=0.115",
+                    "details": "OK - [agent] Version: 1.5.0p9, OS: linux, execution time 0.1 sec",
+                    "state": "OK",
+                    "last_time": 1626633350
+                },
+                {
+                    "subtitle": "",
+                    "_id": "6102351eeb44cc911c250e58",
+                    "title": "check_mk discovery",
+                    "perf_data": "",
+                    "details": "OK - 1 unmonitored services (chrony:1), no vanished services found",
+                    "state": "OK",
+                    "last_time": 1571881186
+                },
+                {
+                    "subtitle": "",
+                    "_id": "6102351eeb44cc911c250e59",
+                    "title": "disk io lvm vg-else",
+                    "perf_data": "disk_average_read_request_size=4096;;;; disk_average_read_wait=0.002;;;; disk_average_request_size=169847.466667;;;; disk_average_wait=0.00281;;;; disk_average_write_request_size=171565.098446;;;; disk_average_write_wait=0.002819;;;; disk_latency=0.000164;;;; disk_queue_length=0;;;; disk_read_ios=0.032787;;;; disk_read_throughput=134.295082;;;; disk_utilization=0.000525;;;; disk_write_ios=3.163934;;;; disk_write_throughput=542820.721311;;;;",
+                    "details": "OK - Utilization: 0.1%, Read: 134.30 B/s, Write: 530.10 kB/s, Average Wait: 2.81 ms, Average Read Wait: 2.00 ms, Average Write Wait: 2.82 ms, Latency: 0.16 ms, Average Queue Length: 0.00",
+                    "state": "OK",
+                    "last_time": 1573454575
+                },
+                {
+                    "subtitle": "",
+                    "_id": "6102351eeb44cc911c250e5a",
+                    "title": "disk io lvm vg-root",
+                    "perf_data": "disk_average_read_request_size=0;;;; disk_average_read_wait=0;;;; disk_average_request_size=88270.367347;;;; disk_average_wait=0.002714;;;; disk_average_write_request_size=88270.367347;;;; disk_average_write_wait=0.002714;;;; disk_latency=0.000117;;;; disk_queue_length=0;;;; disk_read_ios=0;;;; disk_read_throughput=0;;;; disk_utilization=0.000377;;;; disk_write_ios=3.213115;;;; disk_write_throughput=283622.819672;;;;",
+                    "details": "OK - Utilization: 0.0%, Read: 0.00 B/s, Write: 276.98 kB/s, Average Wait: 2.71 ms, Average Read Wait: 0.00 ms, Average Write Wait: 2.71 ms, Latency: 0.12 ms, Average Queue Length: 0.00",
+                    "state": "OK",
+                    "last_time": 1573454575
+                },
+                {
+                    "subtitle": "",
+                    "_id": "6102351eeb44cc911c250e5b",
+                    "title": "disk io lvm vg-swap",
+                    "perf_data": "disk_average_read_request_size=0;;;; disk_average_read_wait=0;;;; disk_average_request_size=0;;;; disk_average_wait=0;;;; disk_average_write_request_size=0;;;; disk_average_write_wait=0;;;; disk_latency=0;;;; disk_queue_length=0;;;; disk_read_ios=0;;;; disk_read_throughput=0;;;; disk_utilization=0;;;; disk_write_ios=0;;;; disk_write_throughput=0;;;;",
+                    "details": "OK - Utilization: 0.0%, Read: 0.00 B/s, Write: 0.00 B/s, Average Wait: 0.00 ms, Average Read Wait: 0.00 ms, Average Write Wait: 0.00 ms, Latency: 0.00 ms, Average Queue Length: 0.00",
+                    "state": "OK",
+                    "last_time": 1573454575
+                },
+                {
+                    "subtitle": "",
+                    "_id": "6102351eeb44cc911c250e5c",
+                    "title": "disk io summary",
+                    "perf_data": "disk_average_read_request_size=2048;;;; disk_average_read_wait=0.001;;;; disk_average_request_size=136999.563636;;;; disk_average_wait=0.003554;;;; disk_average_write_request_size=137335.329032;;;; disk_average_write_wait=0.003556;;;; disk_latency=0.000807;;;; disk_queue_length=0;;;; disk_read_ios=0.032787;;;; disk_read_throughput=134.295082;;;; disk_utilization=0.000631;;;; disk_write_ios=6.344262;;;; disk_write_throughput=826443.540984;;;;",
+                    "details": "OK - Utilization: 0.1%, Read: 134.30 B/s, Write: 807.07 kB/s, Average Wait: 3.55 ms, Average Read Wait: 1.00 ms, Average Write Wait: 3.56 ms, Latency: 0.81 ms, Average Queue Length: 0.00",
+                    "state": "OK",
+                    "last_time": 1571881035
+                },
+                {
+                    "subtitle": "",
+                    "_id": "6102351eeb44cc911c250e5d",
+                    "title": "filesystem /",
+                    "perf_data": "/=56169.796875;65520.8;73710.9;0;81901 fs_size=81901;;;; growth=0;;;; trend=973.381839;;;0;3412.541667 inodes_used=78086;37746892.8;39843942.4;0;41940992",
+                    "details": "OK - 68.6% used (54.85 of 79.98 GB), trend: +973.38 MB / 24 hours",
+                    "state": "OK",
+                    "last_time": 1623400902
+                },
+                {
+                    "subtitle": "",
+                    "_id": "6102351eeb44cc911c250e5e",
+                    "title": "filesystem /boot",
+                    "perf_data": "/boot=117.484375;397.328125;446.994141;0;496.660156 fs_size=496.660156;;;; growth=0;;;; trend=0;;;0;20.694173 inodes_used=325;230400;243200;0;256000",
+                    "details": "OK - 23.7% used (117.48 of 496.66 MB), trend: 0.00 B / 24 hours",
+                    "state": "OK",
+                    "last_time": 1571881035
+                },
+                {
+                    "subtitle": "",
+                    "_id": "6102351eeb44cc911c250e5f",
+                    "title": "filesystem /else",
+                    "perf_data": "/else=223483.242188;194468.2;218776.725;0;243085.25 fs_size=243085.25;;;; growth=2146.077813;;;; trend=1051.498113;;;0;10128.552083 inodes_used=179139;36291758.4;38307967.2;0;40324176",
+                    "details": "CRIT - 91.9% used (218.25 of 237.39 GB), (warn/crit at 80.00/90.00%), trend: +1.03 GB / 24 hours",
+                    "state": "CRIT",
+                    "last_time": 1627364276
+                },
+                {
+                    "subtitle": "TJ-LAN-502",
+                    "_id": "6102351eeb44cc911c250e60",
+                    "title": "interface 2",
+                    "perf_data": "in=1969614.712476;;;0;1250000000 inucast=9027.442888;;;; innucast=0;;;; indisc=0;;;; inerr=0;0.01;0.1;; out=2196500.883491;;;0;1250000000 outucast=7841.601594;;;; outnucast=0;;;; outdisc=0;;;; outerr=0;0.01;0.1;; outqlen=0;;;0;",
+                    "details": "OK - [ens192] (up) MAC: 00:50:56:B2:E3:97, 10.00 Gbit/s, in: 1.88 MB/s(0.2%), out: 2.09 MB/s(0.2%)",
+                    "state": "OK",
+                    "last_time": 1571881035
+                },
+                {
+                    "subtitle": "",
+                    "_id": "6102351eeb44cc911c250e61",
+                    "title": "kernel context switches",
+                    "perf_data": "ctxt=23554.016393;;;;",
+                    "details": "OK - 23554/s",
+                    "state": "OK",
+                    "last_time": 1571881096
+                },
+                {
+                    "subtitle": "",
+                    "_id": "6102351eeb44cc911c250e62",
+                    "title": "kernel major page faults",
+                    "perf_data": "pgmajfault=0;;;;",
+                    "details": "OK - 0/s",
+                    "state": "OK",
+                    "last_time": 1571881096
+                },
+                {
+                    "subtitle": "",
+                    "_id": "6102351eeb44cc911c250e63",
+                    "title": "kernel process creations",
+                    "perf_data": "processes=9.868852;;;;",
+                    "details": "OK - 10/s",
+                    "state": "OK",
+                    "last_time": 1571881096
+                },
+                {
+                    "subtitle": "",
+                    "_id": "6102351eeb44cc911c250e64",
+                    "title": "memory",
+                    "perf_data": "active=10622017536;;;; active_anon=9051680768;;;; active_file=1570336768;;;; anon_huge_pages=1698693120;;;; anon_pages=9056694272;;;; bounce=0;;;; buffers=0;;;; cached=2198425600;;;; caches=2289250304;;;; commit_limit=51220676608;;;; committed_as=24685510656;;;; dirty=15028224;;;; hardware_corrupted=0;;;; inactive=639995904;;;; inactive_anon=148004864;;;; inactive_file=491991040;;;; kernel_stack=48234496;;;; mapped=68501504;;;; mem_available=23646085120;;;; mem_free=21868138496;;;; mem_total=33721888768;;;; mem_used=9564499968;;;; mlocked=0;;;; nfs_unstable=0;;;; page_tables=40943616;;;; pending=15028224;;;; sreclaimable=83234816;;;; sunreclaim=100179968;;;; shmem=135901184;;;; slab=183414784;;;; swap_cached=7589888;;;; swap_free=34225491968;;;; swap_total=34359734272;;;; swap_used=134242304;;;; total_total=68081623040;;;; total_used=9698742272;;;; unevictable=0;;;; writeback=0;;;; writeback_tmp=0;;;;",
+                    "details": "OK - RAM used: 8.91 GB of 31.41 GB, Swap used: 128.02 MB of 32.00 GB, Total virtual memory used: 9.03 GB of 63.41 GB (14.2%),",
+                    "state": "OK",
+                    "last_time": 1623901600
+                },
+                {
+                    "subtitle": "",
+                    "_id": "6102351eeb44cc911c250e65",
+                    "title": "mount options of /",
+                    "perf_data": "",
+                    "details": "OK - Mount options exactly as expected",
+                    "state": "OK",
+                    "last_time": 1571881035
+                },
+                {
+                    "subtitle": "",
+                    "_id": "6102351eeb44cc911c250e66",
+                    "title": "mount options of /boot",
+                    "perf_data": "",
+                    "details": "OK - Mount options exactly as expected",
+                    "state": "OK",
+                    "last_time": 1571881035
+                },
+                {
+                    "subtitle": "",
+                    "_id": "6102351eeb44cc911c250e67",
+                    "title": "mount options of /else",
+                    "perf_data": "",
+                    "details": "OK - Mount options exactly as expected",
+                    "state": "OK",
+                    "last_time": 1571881035
+                },
+                {
+                    "subtitle": "",
+                    "_id": "6102351eeb44cc911c250e68",
+                    "title": "number of threads",
+                    "perf_data": "threads=2818;14000;15000;0;",
+                    "details": "OK - 2818 threads",
+                    "state": "OK",
+                    "last_time": 1571881035
+                },
+                {
+                    "subtitle": "",
+                    "_id": "6102351eeb44cc911c250e69",
+                    "title": "postfix status",
+                    "perf_data": "",
+                    "details": "OK - Status: the Postfix mail system is running, PID: 9517",
+                    "state": "OK",
+                    "last_time": 1582825973
+                },
+                {
+                    "subtitle": "",
+                    "_id": "6102351eeb44cc911c250e6a",
+                    "title": "tcp connections",
+                    "perf_data": "ESTABLISHED=1339;;;; SYN_SENT=0;;;; SYN_RECV=3;;;; LAST_ACK=13;;;; CLOSE_WAIT=23;;;; TIME_WAIT=661;;;; CLOSED=0;;;; CLOSING=16;;;; FIN_WAIT1=19;;;; FIN_WAIT2=136;;;; LISTEN=73;;;; BOUND=0;;;; IDLE=0;;;;",
+                    "details": "OK - ESTABLISHED: 1339, SYN_RECV: 3, LAST_ACK: 13, CLOSE_WAIT: 23, TIME_WAIT: 661, CLOSING: 16, FIN_WAIT1: 19, FIN_WAIT2: 136, LISTEN: 73",
+                    "state": "OK",
+                    "last_time": 1571881035
+                }
+            ]
+        },
+        {
+            "name": "MCR32VM-AO-PROD-SRV",
+            "ip": "10.121.1.134",
+            "config": [
+                {
+                    "subtitle": "",
+                    "_id": "6102351eeb44cc911c25107c",
+                    "title": "cpu utilization",
+                    "perf_data": "util=4.53125;90;95;0;8 user=4.21875;;;;",
+                    "details": "OK - 4.5% used, user perc: 4.2 %, privileged perc: 0.5 %, 8 CPUs",
+                    "state": "OK",
+                    "last_time": 1606445096
+                },
+                {
+                    "subtitle": "",
+                    "_id": "6102351eeb44cc911c25107d",
+                    "title": "check_mk",
+                    "perf_data": "execution_time=0.340 user_time=0.020 system_time=0.000 children_user_time=0.000 children_system_time=0.000 cmk_time_agent=0.260",
+                    "details": "OK - [agent] Version: 1.5.0p9, OS: windows, execution time 0.3 sec",
+                    "state": "OK",
+                    "last_time": 1626633350
+                },
+                {
+                    "subtitle": "",
+                    "_id": "6102351eeb44cc911c25107e",
+                    "title": "check_mk discovery",
+                    "perf_data": "",
+                    "details": "OK - no unmonitored services found, no vanished services found",
+                    "state": "OK",
+                    "last_time": 1571881249
+                },
+                {
+                    "subtitle": "",
+                    "_id": "6102351eeb44cc911c25107f",
+                    "title": "disk io summary",
+                    "perf_data": "disk_average_read_wait=0;;;; disk_average_write_wait=0.002933;;;; disk_read_ios=0;;;; disk_read_ql=0;;;; disk_read_throughput=0;;;; disk_write_ios=246.066855;;;; disk_write_ql=1.284633;;;; disk_write_throughput=673331.513769;;;;",
+                    "details": "OK - Read: 0.00 B/s, Write: 657.55 kB/s, Average Read Wait: 0.00 ms, Average Write Wait: 2.93 ms, Average Read Queue Length: 0.00, Average Write Queue Length: 1.28",
+                    "state": "OK",
+                    "last_time": 1571881158
+                },
+                {
+                    "subtitle": "",
+                    "_id": "6102351eeb44cc911c251080",
+                    "title": "filesystem c:/",
+                    "perf_data": "C:/=74118.089844;81637.596875;91842.296484;0;102046.996094 fs_size=102046.996094;;;; growth=0;;;; trend=78.431647;;;0;4251.958171",
+                    "details": "OK - 72.6% used (72.38 of 99.66 GB), trend: +78.43 MB / 24 hours",
+                    "state": "OK",
+                    "last_time": 1608154508
+                },
+                {
+                    "subtitle": "",
+                    "_id": "6102351eeb44cc911c251081",
+                    "title": "filesystem d:/",
+                    "perf_data": "D:/=179188.816406;163837.596875;184317.296484;0;204796.996094 fs_size=204796.996094;;;; growth=0;;;; trend=1144.359513;;;0;8533.208171",
+                    "details": "WARN - 87.5% used (174.99 of 200.00 GB), (warn/crit at 80.00/90.00%), trend: +1.12 GB / 24 hours",
+                    "state": "WARN",
+                    "last_time": 1621421052
+                },
+                {
+                    "subtitle": "TJ-LAN-502",
+                    "_id": "6102351eeb44cc911c251082",
+                    "title": "interface 1",
+                    "perf_data": "in=71079.387366;;;0;1250000000 inucast=267.251877;;;; innucast=0.465625;;;; indisc=0;;;; inerr=0;0.01;0.1;; out=62931.705627;;;0;1250000000 outucast=259.219853;;;; outnucast=0.582031;;;; outdisc=0;;;; outerr=0;0.01;0.1;; outqlen=0;;;0;",
+                    "details": "OK - [LAN] (Connected) MAC: 00:50:56:B2:BB:20, 10.00 Gbit/s, in: 69.41 kB/s(0.0%), out: 61.46 kB/s(0.0%)",
+                    "state": "OK",
+                    "last_time": 1571881102
+                },
+                {
+                    "subtitle": "",
+                    "_id": "6102351eeb44cc911c251083",
+                    "title": "interface 2",
+                    "perf_data": "in=0;;;0;12500 inucast=0;;;; innucast=0;;;; indisc=0;;;; inerr=0;0.01;0.1;; out=0;;;0;12500 outucast=0;;;; outnucast=0;;;; outdisc=0;;;; outerr=0;0.01;0.1;; outqlen=0;;;0;",
+                    "details": "OK - [isatap.{291CB7E6-C630-4CD4-AB51-E07C2B50DB14}] (Connected) 100.0 Kbit/s, in: 0.00 B/s(0.0%), out: 0.00 B/s(0.0%)",
+                    "state": "OK",
+                    "last_time": 1571881102
+                },
+                {
+                    "subtitle": "",
+                    "_id": "6102351eeb44cc911c251084",
+                    "title": "memory and pagefile",
+                    "perf_data": "memory=5939.058594;29490.679688;31129.050781;0;32767.421875 mem_total=32767.421875;;;; pagefile=6452.628906;33868.279687;35749.850781;0;37631.421875 pagefile_total=37631.421875;;;;",
+                    "details": "OK - Memory usage: 18.1% (5.8/32.0 GB), Commit Charge: 17.1% (6.3/36.7 GB)",
+                    "state": "OK",
+                    "last_time": 1571881102
+                },
+                {
+                    "subtitle": "",
+                    "_id": "6102351eeb44cc911c251085",
+                    "title": "processor queue",
+                    "perf_data": "load1=0;0.9;1;0;1 load5=0.000205;0.9;1;0;1 load15=0.024227;0.9;1;0;1",
+                    "details": "OK - 15 min load 0.02",
+                    "state": "OK",
+                    "last_time": 1607497972
+                },
+                {
+                    "subtitle": "",
+                    "_id": "6102351eeb44cc911c251086",
+                    "title": "services summary",
+                    "perf_data": "",
+                    "details": "OK - 165 services, 61 services in autostart - of which 3 services are stopped (GISvc, gupdate, RemoteRegistry), 0 services stopped but ignored",
+                    "state": "OK",
+                    "last_time": 1571881102
+                },
+                {
+                    "subtitle": "",
+                    "_id": "6102351eeb44cc911c251087",
+                    "title": "system time",
+                    "perf_data": "offset=-9.162883;30;60;0;",
+                    "details": "OK - Offset is -9 sec (warn/crit at 30/60 sec)",
+                    "state": "OK",
+                    "last_time": 1627345737
+                }
+            ]
+        },
+        {
+            "name": "MCR32VM-AO-ARROW-SRV",
+            "ip": "10.121.1.152",
+            "config": [
+                {
+                    "subtitle": "",
+                    "_id": "6102351eeb44cc911c250f17",
+                    "title": "cpu load",
+                    "perf_data": "load1=0.54;3.6;4;0;4 load5=0.66;3.6;4;0;4 load15=0.75;3.6;4;0;4",
+                    "details": "OK - 15 min load 0.75 at 4 Cores (0.19 per Core)",
+                    "state": "OK",
+                    "last_time": 1616049781
+                },
+                {
+                    "subtitle": "",
+                    "_id": "6102351eeb44cc911c250f18",
+                    "title": "cpu utilization",
+                    "perf_data": "user=11.148904;;;; system=4.30839;;;; wait=0.020996;;;; steal=0;;;; guest=0;;;;",
+                    "details": "OK - user: 11.1%, system: 4.3%, wait: 0.0%, steal: 0.0%, guest: 0.0%, total: 15.5%",
+                    "state": "OK",
+                    "last_time": 1571881086
+                },
+                {
+                    "subtitle": "",
+                    "_id": "6102351eeb44cc911c250f19",
+                    "title": "check_mk",
+                    "perf_data": "execution_time=0.238 user_time=0.020 system_time=0.000 children_user_time=0.000 children_system_time=0.000 cmk_time_agent=0.082",
+                    "details": "OK - [agent] Version: 1.5.0p9, OS: linux, execution time 0.2 sec",
+                    "state": "OK",
+                    "last_time": 1626633351
+                },
+                {
+                    "subtitle": "",
+                    "_id": "6102351eeb44cc911c250f1a",
+                    "title": "check_mk discovery",
+                    "perf_data": "",
+                    "details": "OK - 2 unmonitored services (diskstat:2), no vanished services found",
+                    "state": "OK",
+                    "last_time": 1571881222
+                },
+                {
+                    "subtitle": "",
+                    "_id": "6102351eeb44cc911c250f1b",
+                    "title": "disk io summary",
+                    "perf_data": "disk_average_read_request_size=0;;;; disk_average_read_wait=0;;;; disk_average_request_size=66501.245902;;;; disk_average_wait=0.000197;;;; disk_average_write_request_size=6597.245902;;;; disk_average_write_wait=0.000197;;;; disk_latency=0.000197;;;; disk_queue_length=0;;;; disk_read_ios=0;;;; disk_read_throughput=0;;;; disk_utilization=0.0004;;;; disk_write_ios=2.233333;;;; disk_write_throughput=50790.4;;;;",
+                    "details": "OK - Utilization: 0.0%, Read: 0.00 B/s, Write: 49.60 kB/s, Average Wait: 0.20 ms, Average Read Wait: 0.00 ms, Average Write Wait: 0.20 ms, Latency: 0.20 ms, Average Queue Length: 0.00",
+                    "state": "OK",
+                    "last_time": 1571881086
+                },
+                {
+                    "subtitle": "",
+                    "_id": "6102351eeb44cc911c250f1c",
+                    "title": "filesystem /",
+                    "perf_data": "/=47695.535156;78529.984375;88346.232422;0;98162.480469 fs_size=98162.480469;;;; growth=3483.459244;;;; trend=913.01253;;;0;4090.103353 inodes_used=532504;5746910.4;6066183.2;0;6385456",
+                    "details": "OK - 48.6% used (46.58 of 95.86 GB), trend: +913.01 MB / 24 hours",
+                    "state": "OK",
+                    "last_time": 1622108090
+                },
+                {
+                    "subtitle": "TJ-LAN-502",
+                    "_id": "6102351eeb44cc911c250f1d",
+                    "title": "interface 2",
+                    "perf_data": "in=166897.620433;;;0;1250000000 inucast=246.427129;;;; innucast=0;;;; indisc=0;;;; inerr=0;0.01;0.1;; out=73029.176444;;;0;1250000000 outucast=256.381081;;;; outnucast=0;;;; outdisc=0;;;; outerr=0;0.01;0.1;; outqlen=0;;;0;",
+                    "details": "OK - [ens160] (up) MAC: 00:50:56:B2:0D:74, 10.00 Gbit/s, in: 162.99 kB/s(0.0%), out: 71.32 kB/s(0.0%)",
+                    "state": "OK",
+                    "last_time": 1571881086
+                },
+                {
+                    "subtitle": "",
+                    "_id": "6102351eeb44cc911c250f1e",
+                    "title": "kernel context switches",
+                    "perf_data": "ctxt=1021.433333;;;;",
+                    "details": "OK - 1021/s",
+                    "state": "OK",
+                    "last_time": 1571881145
+                },
+                {
+                    "subtitle": "",
+                    "_id": "6102351eeb44cc911c250f1f",
+                    "title": "kernel major page faults",
+                    "perf_data": "pgmajfault=0;;;;",
+                    "details": "OK - 0/s",
+                    "state": "OK",
+                    "last_time": 1571881145
+                },
+                {
+                    "subtitle": "",
+                    "_id": "6102351eeb44cc911c250f20",
+                    "title": "kernel process creations",
+                    "perf_data": "processes=2.283333;;;;",
+                    "details": "OK - 2/s",
+                    "state": "OK",
+                    "last_time": 1571881145
+                },
+                {
+                    "subtitle": "",
+                    "_id": "6102351eeb44cc911c250f21",
+                    "title": "memory",
+                    "perf_data": "active=853286912;;;; active_anon=435802112;;;; active_file=417484800;;;; anon_huge_pages=12582912;;;; anon_pages=737366016;;;; bounce=0;;;; buffers=130969600;;;; cached=633847808;;;; caches=2013093888;;;; cma_free=0;;;; cma_total=0;;;; commit_limit=6323777536;;;; committed_as=1405632512;;;; dirty=1552384;;;; hardware_corrupted=0;;;; inactive=645890048;;;; inactive_anon=397914112;;;; inactive_file=247975936;;;; kernel_stack=5357568;;;; mapped=65507328;;;; mem_available=4719538176;;;; mem_free=3119915008;;;; mem_total=8352600064;;;; mem_used=3219591168;;;; mlocked=3739648;;;; nfs_unstable=0;;;; page_tables=10919936;;;; pending=1552384;;;; sreclaimable=1247399936;;;; sunreclaim=1577525248;;;; shmem=96874496;;;; slab=2824925184;;;; swap_cached=876544;;;; swap_free=2030702592;;;; swap_total=2147479552;;;; swap_used=116776960;;;; total_total=10500079616;;;; total_used=3336368128;;;; unevictable=3739648;;;; writeback=0;;;; writeback_tmp=0;;;;",
+                    "details": "OK - RAM used: 3.00 GB of 7.78 GB, Swap used: 111.37 MB of 2.00 GB, Total virtual memory used: 3.11 GB of 9.78 GB (31.8%),",
+                    "state": "OK",
+                    "last_time": 1571881086
+                },
+                {
+                    "subtitle": "",
+                    "_id": "6102351eeb44cc911c250f22",
+                    "title": "mount options of /",
+                    "perf_data": "",
+                    "details": "OK - Mount options exactly as expected",
+                    "state": "OK",
+                    "last_time": 1571881086
+                },
+                {
+                    "subtitle": "",
+                    "_id": "6102351eeb44cc911c250f23",
+                    "title": "mount options of /boot",
+                    "perf_data": "",
+                    "details": "OK - Mount options exactly as expected",
+                    "state": "OK",
+                    "last_time": 1571881086
+                },
+                {
+                    "subtitle": "",
+                    "_id": "6102351eeb44cc911c250f24",
+                    "title": "ntp time",
+                    "perf_data": "offset=0.324;200;500;0; jitter=4.726;200;500;0;",
+                    "details": "OK - sys.peer - stratum 3, offset 0.32 ms, jitter 4.73 ms, last reached 56 secs ago (synchronized on 103.233.127.194)",
+                    "state": "OK",
+                    "last_time": 1619178174
+                },
+                {
+                    "subtitle": "",
+                    "_id": "6102351eeb44cc911c250f25",
+                    "title": "number of threads",
+                    "perf_data": "threads=202;14000;15000;0;",
+                    "details": "OK - 202 threads",
+                    "state": "OK",
+                    "last_time": 1571881086
+                },
+                {
+                    "subtitle": "",
+                    "_id": "6102351eeb44cc911c250f26",
+                    "title": "tcp connections",
+                    "perf_data": "ESTABLISHED=100;;;; SYN_SENT=0;;;; SYN_RECV=0;;;; LAST_ACK=0;;;; CLOSE_WAIT=0;;;; TIME_WAIT=75;;;; CLOSED=0;;;; CLOSING=0;;;; FIN_WAIT1=1;;;; FIN_WAIT2=41;;;; LISTEN=10;;;; BOUND=0;;;; IDLE=0;;;;",
+                    "details": "OK - ESTABLISHED: 100, TIME_WAIT: 75, FIN_WAIT1: 1, FIN_WAIT2: 41, LISTEN: 10",
+                    "state": "OK",
+                    "last_time": 1571881086
+                }
+            ]
+        },
+        {
+            "name": "MCR32VM-AO-SERV-SRV",
+            "ip": "10.121.1.156",
+            "config": [
+                {
+                    "subtitle": "",
+                    "_id": "6102351eeb44cc911c2510a8",
+                    "title": "cpu utilization",
+                    "perf_data": "util=1.889088;90;95;0;8 user=0.448258;;;;",
+                    "details": "OK - 1.9% used, user perc: 0.4 %, privileged perc: 0.3 %, 8 CPUs",
+                    "state": "OK",
+                    "last_time": 1571881164
+                },
+                {
+                    "subtitle": "",
+                    "_id": "6102351eeb44cc911c2510a9",
+                    "title": "check_mk",
+                    "perf_data": "execution_time=0.584 user_time=0.020 system_time=0.000 children_user_time=0.000 children_system_time=0.000 cmk_time_agent=0.516",
+                    "details": "OK - [agent] Version: 1.5.0p9, OS: windows, execution time 0.6 sec",
+                    "state": "OK",
+                    "last_time": 1626633350
+                },
+                {
+                    "subtitle": "",
+                    "_id": "6102351eeb44cc911c2510aa",
+                    "title": "check_mk discovery",
+                    "perf_data": "",
+                    "details": "OK - 1 unmonitored services (wmi_webservices:1), no vanished services found",
+                    "state": "OK",
+                    "last_time": 1571881255
+                },
+                {
+                    "subtitle": "",
+                    "_id": "6102351eeb44cc911c2510ab",
+                    "title": "disk io summary",
+                    "perf_data": "disk_average_read_wait=0;;;; disk_average_write_wait=0;;;; disk_read_ios=0;;;; disk_read_ql=0;;;; disk_read_throughput=0;;;; disk_write_ios=0;;;; disk_write_ql=0;;;; disk_write_throughput=0;;;;",
+                    "details": "OK - Read: 0.00 B/s, Write: 0.00 B/s, Average Read Wait: 0.00 ms, Average Write Wait: 0.00 ms, Average Read Queue Length: 0.00, Average Write Queue Length: 0.00",
+                    "state": "OK",
+                    "last_time": 1571881164
+                },
+                {
+                    "subtitle": "",
+                    "_id": "6102351eeb44cc911c2510ac",
+                    "title": "filesystem c:/",
+                    "perf_data": "C:/=19457.511719;81637.596875;91842.296484;0;102046.996094 fs_size=102046.996094;;;; growth=5.597651;;;; trend=4.136596;;;0;4251.958171",
+                    "details": "OK - 19.1% used (19.00 of 99.66 GB), trend: +4.14 MB / 24 hours",
+                    "state": "OK",
+                    "last_time": 1571881117
+                },
+                {
+                    "subtitle": "",
+                    "_id": "6102351eeb44cc911c2510ad",
+                    "title": "filesystem d:/",
+                    "perf_data": "D:/=93799.679688;163837.596875;184317.296484;0;204796.996094 fs_size=204796.996094;;;; growth=28212.134788;;;; trend=7219.226593;;;0;8533.208171",
+                    "details": "OK - 45.8% used (91.60 of 200.00 GB), trend: +7.05 GB / 24 hours",
+                    "state": "OK",
+                    "last_time": 1619693743
+                },
+                {
+                    "subtitle": "TJ-LAN-502",
+                    "_id": "6102351eeb44cc911c2510ae",
+                    "title": "interface 1",
+                    "perf_data": "in=238635.515851;;;0;1250000000 inucast=212.030439;;;; innucast=0.829281;;;; indisc=0;;;; inerr=0;0.01;0.1;; out=24130.984596;;;0;1250000000 outucast=74.004992;;;; outnucast=0.016586;;;; outdisc=0;;;; outerr=0;0.01;0.1;; outqlen=0;;;0;",
+                    "details": "OK - [LAN] (Connected) MAC: 00:50:56:B2:14:BF, 10.00 Gbit/s, in: 233.04 kB/s(0.0%), out: 23.57 kB/s(0.0%)",
+                    "state": "OK",
+                    "last_time": 1571881117
+                },
+                {
+                    "subtitle": "",
+                    "_id": "6102351eeb44cc911c2510af",
+                    "title": "interface 2",
+                    "perf_data": "in=0;;;0;12500 inucast=0;;;; innucast=0;;;; indisc=0;;;; inerr=0;0.01;0.1;; out=0;;;0;12500 outucast=0;;;; outnucast=0;;;; outdisc=0;;;; outerr=0;0.01;0.1;; outqlen=0;;;0;",
+                    "details": "OK - [isatap.{291CB7E6-C630-4CD4-AB51-E07C2B50DB14}] (Connected) 100.0 Kbit/s, in: 0.00 B/s(0.0%), out: 0.00 B/s(0.0%)",
+                    "state": "OK",
+                    "last_time": 1626843936
+                },
+                {
+                    "subtitle": "",
+                    "_id": "6102351eeb44cc911c2510b0",
+                    "title": "memory and pagefile",
+                    "perf_data": "memory=4453.925781;14745.079687;15564.250781;0;16383.421875 mem_total=16383.421875;;;; pagefile=4711.773438;16933.879688;17874.650781;0;18815.421875 pagefile_total=18815.421875;;;;",
+                    "details": "OK - Memory usage: 27.2% (4.3/16.0 GB), Commit Charge: 25.0% (4.6/18.4 GB)",
+                    "state": "OK",
+                    "last_time": 1571881117
+                },
+                {
+                    "subtitle": "",
+                    "_id": "6102351eeb44cc911c2510b1",
+                    "title": "processor queue",
+                    "perf_data": "load1=0;0.9;1;0;1 load5=0;0.9;1;0;1 load15=0;0.9;1;0;1",
+                    "details": "OK - 15 min load 0.00",
+                    "state": "OK",
+                    "last_time": 1571881164
+                },
+                {
+                    "subtitle": "",
+                    "_id": "6102351eeb44cc911c2510b2",
+                    "title": "services summary",
+                    "perf_data": "",
+                    "details": "OK - 161 services, 54 services in autostart - of which 2 services are stopped (RemoteRegistry, sppsvc), 0 services stopped but ignored",
+                    "state": "OK",
+                    "last_time": 1571881117
+                },
+                {
+                    "subtitle": "",
+                    "_id": "6102351eeb44cc911c2510b3",
+                    "title": "system time",
+                    "perf_data": "offset=-4.708271;30;60;0;",
+                    "details": "OK - Offset is -4 sec (warn/crit at 30/60 sec)",
+                    "state": "OK",
+                    "last_time": 1595755992
+                },
+                {
+                    "subtitle": "",
+                    "_id": "6102351eeb44cc911c2510b4",
+                    "title": "uptime",
+                    "perf_data": "uptime=690730;;;;",
+                    "details": "OK - Up since Wed Jul 21 10:34:47 2021 (7d 23:52:10)",
+                    "state": "OK",
+                    "last_time": 1571881117
+                }
+            ]
+        },
+        {
+            "name": "MCR42VM-AO-APP-VEGA-SRV",
+            "ip": "10.121.1.164",
+            "config": [
+                {
+                    "subtitle": "",
+                    "_id": "6102351eeb44cc911c250f3b",
+                    "title": "cpu utilization",
+                    "perf_data": "util=0.125868;90;95;0;6 user=0.394965;;;;",
+                    "details": "OK - 0.1% used, user perc: 0.4 %, privileged perc: 0.3 %, 6 CPUs",
+                    "state": "OK",
+                    "last_time": 1571881145
+                },
+                {
+                    "subtitle": "",
+                    "_id": "6102351eeb44cc911c250f3c",
+                    "title": "check_mk",
+                    "perf_data": "execution_time=0.312 user_time=0.020 system_time=0.000 children_user_time=0.000 children_system_time=0.000 cmk_time_agent=0.243",
+                    "details": "OK - [agent] Version: 1.5.0p9, OS: windows, execution time 0.3 sec",
+                    "state": "OK",
+                    "last_time": 1626633350
+                },
+                {
+                    "subtitle": "",
+                    "_id": "6102351eeb44cc911c250f3d",
+                    "title": "check_mk discovery",
+                    "perf_data": "",
+                    "details": "OK - 2 unmonitored services (winperf_if:1, wmi_webservices:1), no vanished services found",
+                    "state": "OK",
+                    "last_time": 1571881230
+                },
+                {
+                    "subtitle": "",
+                    "_id": "6102351eeb44cc911c250f3e",
+                    "title": "disk io summary",
+                    "perf_data": "disk_average_read_wait=0.0048;;;; disk_average_write_wait=0.000604;;;; disk_read_ios=0.066302;;;; disk_read_ql=0.000318;;;; disk_read_throughput=220.653075;;;; disk_write_ios=3.232223;;;; disk_write_ql=0.001953;;;; disk_write_throughput=25510.890137;;;;",
+                    "details": "OK - Read: 220.65 B/s, Write: 24.91 kB/s, Average Read Wait: 4.80 ms, Average Write Wait: 0.60 ms, Average Read Queue Length: 0.00, Average Write Queue Length: 0.00",
+                    "state": "OK",
+                    "last_time": 1571881145
+                },
+                {
+                    "subtitle": "",
+                    "_id": "6102351eeb44cc911c250f3f",
+                    "title": "filesystem c:/",
+                    "perf_data": "C:/=36719.578125;81636.796875;91841.396484;0;102045.996094 fs_size=102045.996094;;;; growth=44.756518;;;; trend=-20933.945501;;;0;4251.916504",
+                    "details": "OK - 36.0% used (35.86 of 99.65 GB), trend: -20.44 GB / 24 hours",
+                    "state": "OK",
+                    "last_time": 1627459256
+                },
+                {
+                    "subtitle": "",
+                    "_id": "6102351eeb44cc911c250f40",
+                    "title": "filesystem d:/",
+                    "perf_data": "D:/=9349.839844;8191.996875;9215.996484;0;10239.996094 fs_size=10239.996094;;;; growth=0;;;; trend=61.668321;;;0;426.666504",
+                    "details": "CRIT - 91.3% used (9.13 of 10.00 GB), (warn/crit at 80.00/90.00%), trend: +61.67 MB / 24 hours",
+                    "state": "CRIT",
+                    "last_time": 1627402136
+                },
+                {
+                    "subtitle": "",
+                    "_id": "6102351eeb44cc911c250f41",
+                    "title": "interface 1",
+                    "perf_data": "in=0;;;0;1250000000 inucast=0;;;; innucast=0;;;; indisc=0;;;; inerr=0;0.01;0.1;; out=0;;;0;1250000000 outucast=0;;;; outnucast=0;;;; outdisc=0;;;; outerr=0;0.01;0.1;; outqlen=0;;;0;",
+                    "details": "OK - [Intel[R] 82574L Gigabit Network Connection] (Connected) assuming 10.00 Gbit/s, in: 0.00 B/s(0.0%), out: 0.00 B/s(0.0%)",
+                    "state": "OK",
+                    "last_time": 1614431210
+                },
+                {
+                    "subtitle": "TJ-LAN-502",
+                    "_id": "6102351eeb44cc911c250f42",
+                    "title": "interface 2",
+                    "perf_data": "in=10857.940219;;;0;1250000000 inucast=28.727078;;;; innucast=0.99459;;;; indisc=0;;;; inerr=0;0.01;0.1;; out=19797.912871;;;0;1250000000 outucast=21.002428;;;; outnucast=0.066306;;;; outdisc=0;;;; outerr=0;0.01;0.1;; outqlen=0;;;0;",
+                    "details": "WARN - [TJ-LAN] (Connected) MAC: 00:50:56:B2:B1:20, 10.00 Gbit/s (wrong speed, expected: 100.0 Kbit/s)(!), in: 10.60 kB/s(0.0%), out: 19.33 kB/s(0.0%)(!)",
+                    "state": "WARN",
+                    "last_time": 1614430730
+                },
+                {
+                    "subtitle": "",
+                    "_id": "6102351eeb44cc911c250f43",
+                    "title": "memory and pagefile",
+                    "perf_data": "memory=4594.789062;7372.339453;7781.913867;0;8191.488281 mem_total=8191.488281;;;; pagefile=4935.027344;8635.436719;9115.183203;0;9594.929688 pagefile_total=9594.929688;;;;",
+                    "details": "OK - Memory usage: 56.1% (4.5/8.0 GB), Commit Charge: 51.4% (4.8/9.4 GB)",
+                    "state": "OK",
+                    "last_time": 1625832968
+                },
+                {
+                    "subtitle": "",
+                    "_id": "6102351eeb44cc911c250f44",
+                    "title": "processor queue",
+                    "perf_data": "load1=0;0.9;1;0;1 load5=0;0.9;1;0;1 load15=0.000009;0.9;1;0;1",
+                    "details": "OK - 15 min load 0.00",
+                    "state": "OK",
+                    "last_time": 1604570555
+                },
+                {
+                    "subtitle": "",
+                    "_id": "6102351eeb44cc911c250f45",
+                    "title": "services summary",
+                    "perf_data": "",
+                    "details": "OK - 155 services, 52 services in autostart - of which 3 services are stopped (gupdate, RemoteRegistry, sppsvc), 0 services stopped but ignored",
+                    "state": "OK",
+                    "last_time": 1571881089
+                },
+                {
+                    "subtitle": "",
+                    "_id": "6102351eeb44cc911c250f46",
+                    "title": "system time",
+                    "perf_data": "offset=-8.061417;30;60;0;",
+                    "details": "OK - Offset is -8 sec (warn/crit at 30/60 sec)",
+                    "state": "OK",
+                    "last_time": 1627336976
+                },
+                {
+                    "subtitle": "",
+                    "_id": "6102351eeb44cc911c250f47",
+                    "title": "uptime",
+                    "perf_data": "uptime=14916497;;;;",
+                    "details": "OK - Up since Sat Feb  6 18:58:39 2021 (172d 15:28:17)",
+                    "state": "OK",
+                    "last_time": 1571881089
+                }
+            ]
+        },
+        {
+            "name": "MCR42VM-4DJ-AO-APP-WINEX-SRV02",
+            "ip": "10.121.1.101",
+            "config": [
+                {
+                    "subtitle": "",
+                    "_id": "6102351eeb44cc911c250c49",
+                    "title": "cpu utilization",
+                    "perf_data": "util=1.263021;90;95;0;4 user=0.735677;;;;",
+                    "details": "OK - 1.3% used, user perc: 0.7 %, privileged perc: 0.7 %, 4 CPUs",
+                    "state": "OK",
+                    "last_time": 1622280607
+                },
+                {
+                    "subtitle": "",
+                    "_id": "6102351eeb44cc911c250c4a",
+                    "title": "check_mk",
+                    "perf_data": "execution_time=0.328 user_time=0.020 system_time=0.000 children_user_time=0.000 children_system_time=0.000 cmk_time_agent=0.168",
+                    "details": "OK - [agent] Version: 1.5.0p9, OS: windows, execution time 0.3 sec",
+                    "state": "OK",
+                    "last_time": 1626633350
+                },
+                {
+                    "subtitle": "",
+                    "_id": "6102351eeb44cc911c250c4b",
+                    "title": "check_mk discovery",
+                    "perf_data": "",
+                    "details": "OK - no unmonitored services found, no vanished services found",
+                    "state": "OK",
+                    "last_time": 1622280696
+                },
+                {
+                    "subtitle": "",
+                    "_id": "6102351eeb44cc911c250c4c",
+                    "title": "disk io summary",
+                    "perf_data": "disk_average_read_wait=0;;;; disk_average_write_wait=0.00198;;;; disk_read_ios=0;;;; disk_read_ql=0;;;; disk_read_throughput=0;;;; disk_write_ios=2.479201;;;; disk_write_ql=0.00491;;;; disk_write_throughput=336991.413507;;;;",
+                    "details": "OK - Read: 0.00 B/s, Write: 329.09 kB/s, Average Read Wait: 0.00 ms, Average Write Wait: 1.98 ms, Average Read Queue Length: 0.00, Average Write Queue Length: 0.00",
+                    "state": "OK",
+                    "last_time": 1622280607
+                },
+                {
+                    "subtitle": "",
+                    "_id": "6102351eeb44cc911c250c4d",
+                    "title": "filesystem c:/",
+                    "perf_data": "C:/=51662.832031;48699.196875;54786.596484;0;60873.996094 fs_size=60873.996094;;;; growth=26506.094011;;;; trend=2927.148156;;;0;2536.416504",
+                    "details": "WARN - 84.9% used (50.45 of 59.45 GB), (warn/crit at 80.00/90.00%), trend: +2.86 GB / 24 hours",
+                    "state": "WARN",
+                    "last_time": 1627465457
+                },
+                {
+                    "subtitle": "",
+                    "_id": "6102351eeb44cc911c250c4e",
+                    "title": "filesystem d:/",
+                    "perf_data": "D:/=98902.308594;114685.596875;129021.296484;0;143356.996094 fs_size=143356.996094;;;; growth=0;;;; trend=9379.212551;;;0;5973.208171",
+                    "details": "OK - 69.0% used (96.58 of 140.00 GB), trend: +9.16 GB / 24 hours",
+                    "state": "OK",
+                    "last_time": 1623901450
+                },
+                {
+                    "subtitle": "",
+                    "_id": "6102351eeb44cc911c250c4f",
+                    "title": "interface 1",
+                    "perf_data": "in=207748.057234;;;0;125000000 inucast=164.510446;;;; innucast=0;;;; indisc=0;;;; inerr=0;0.01;0.1;; out=8603.94457;;;0;125000000 outucast=84.97571;;;; outnucast=0;;;; outdisc=0;;;; outerr=0;0.01;0.1;; outqlen=0;;;0;",
+                    "details": "OK - [Intel[R] 82574L Gigabit Network Connection] (Connected) 1 Gbit/s, in: 202.88 kB/s(0.2%), out: 8.40 kB/s(0.0%)",
+                    "state": "OK",
+                    "last_time": 1622280547
+                },
+                {
+                    "subtitle": "",
+                    "_id": "6102351eeb44cc911c250c50",
+                    "title": "interface 2",
+                    "perf_data": "in=28.718952;;;0;125000000 inucast=0.282863;;;; innucast=0;;;; indisc=0;;;; inerr=0;0.01;0.1;; out=0.998341;;;0;125000000 outucast=0.016639;;;; outnucast=0;;;; outdisc=0;;;; outerr=0;0.01;0.1;; outqlen=0;;;0;",
+                    "details": "OK - [Intel[R] 82574L Gigabit Network Connection 2] (Connected) 1 Gbit/s, in: 28.72 B/s(0.0%), out: 1.00 B/s(0.0%)",
+                    "state": "OK",
+                    "last_time": 1622280547
+                },
+                {
+                    "subtitle": "",
+                    "_id": "6102351eeb44cc911c250c51",
+                    "title": "interface 3",
+                    "perf_data": "in=16.772127;;;0;125000000 inucast=0.099834;;;; innucast=0;;;; indisc=0;;;; inerr=0;0.01;0.1;; out=5.990045;;;0;125000000 outucast=0.099834;;;; outnucast=0;;;; outdisc=0;;;; outerr=0;0.01;0.1;; outqlen=0;;;0;",
+                    "details": "OK - [Intel[R] 82574L Gigabit Network Connection 3] (Connected) 1 Gbit/s, in: 16.77 B/s(0.0%), out: 5.99 B/s(0.0%)",
+                    "state": "OK",
+                    "last_time": 1622280547
+                },
+                {
+                    "subtitle": "",
+                    "_id": "6102351eeb44cc911c250c52",
+                    "title": "interface 5",
+                    "perf_data": "in=0;;;0;12500 inucast=0;;;; innucast=0;;;; indisc=0;;;; inerr=0;0.01;0.1;; out=0;;;0;12500 outucast=0;;;; outnucast=0;;;; outdisc=0;;;; outerr=0;0.01;0.1;; outqlen=0;;;0;",
+                    "details": "OK - [isatap.{1EEFAD18-6DC1-453C-99C5-84F73DF7AAC5}] (Connected) 100.0 Kbit/s, in: 0.00 B/s(0.0%), out: 0.00 B/s(0.0%)",
+                    "state": "OK",
+                    "last_time": 1622280547
+                },
+                {
+                    "subtitle": "",
+                    "_id": "6102351eeb44cc911c250c53",
+                    "title": "interface 6",
+                    "perf_data": "in=0;;;0;12500 inucast=0;;;; innucast=0;;;; indisc=0;;;; inerr=0;0.01;0.1;; out=0;;;0;12500 outucast=0;;;; outnucast=0;;;; outdisc=0;;;; outerr=0;0.01;0.1;; outqlen=0;;;0;",
+                    "details": "OK - [isatap.{4428DC98-2D2A-4433-8BCE-C088115D2D6D}] (Connected) 100.0 Kbit/s, in: 0.00 B/s(0.0%), out: 0.00 B/s(0.0%)",
+                    "state": "OK",
+                    "last_time": 1622280547
+                },
+                {
+                    "subtitle": "",
+                    "_id": "6102351eeb44cc911c250c54",
+                    "title": "memory and pagefile",
+                    "perf_data": "memory=2449.339844;6552.753125;7371.847266;0;8190.941406 mem_total=8190.941406;;;; pagefile=2668.542969;7576.753125;8523.847266;0;9470.941406 pagefile_total=9470.941406;;;;",
+                    "details": "OK - Memory usage: 29.9% (2.4/8.0 GB), Commit Charge: 28.2% (2.6/9.2 GB)",
+                    "state": "OK",
+                    "last_time": 1622280547
+                },
+                {
+                    "subtitle": "",
+                    "_id": "6102351eeb44cc911c250c55",
+                    "title": "processor queue",
+                    "perf_data": "load1=0;0.9;1;0;1 load5=0.021436;0.9;1;0;1 load15=0.039465;0.9;1;0;1",
+                    "details": "OK - 15 min load 0.04",
+                    "state": "OK",
+                    "last_time": 1626668594
+                },
+                {
+                    "subtitle": "",
+                    "_id": "6102351eeb44cc911c250c56",
+                    "title": "services summary",
+                    "perf_data": "",
+                    "details": "OK - 205 services, 60 services in autostart - of which 6 services are stopped (CDPSvc, GISvc, MapsBroker, RemoteRegistry, WbioSrvc, gupdate), 0 services stopped but ignored",
+                    "state": "OK",
+                    "last_time": 1622280547
+                },
+                {
+                    "subtitle": "",
+                    "_id": "6102351eeb44cc911c250c57",
+                    "title": "system time",
+                    "perf_data": "offset=-44.203499;30;60;0;",
+                    "details": "WARN - Offset is -44 sec (warn/crit at 30/60 sec)",
+                    "state": "WARN",
+                    "last_time": 1627373176
+                }
+            ]
+        }
+    ]
+}

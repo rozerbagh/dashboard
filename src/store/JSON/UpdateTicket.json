@@ -1,0 +1,86 @@
+{
+    "message": {
+        "status": 1,
+        "_id": "5f6dc3fcea5343b53825318d",
+        "ticket_history": [
+            {
+                "user_name": "TRADEJINI",
+                "admin_name": "",
+                "_id": "5f6dc3fcea5343b53825318e",
+                "user_type": 1,
+                "ticket_text": "Requires Tickets for stocks",
+                "userId": "5ec55d79e769f2706f765484"
+            },
+            {
+                "user_name": "TRADEJINI",
+                "admin_name": "",
+                "_id": "5f86f162deea4b98411aa12a",
+                "user_type": 1,
+                "ticket_text": "Any updates",
+                "userId": "5ec55d79e769f2706f765484"
+            },
+            {
+                "user_name": "TRADEJINI",
+                "admin_name": "",
+                "_id": "5f9abb926acaa28b4207a5d4",
+                "user_type": 1,
+                "ticket_text": "any updates?",
+                "userId": "5ec55d79e769f2706f765484"
+            },
+            {
+                "user_name": "TRADEJINI",
+                "admin_name": "",
+                "_id": "5fa5213901a26f421df9a0a1",
+                "user_type": 1,
+                "ticket_text": "sir any updates",
+                "userId": "5ec55d79e769f2706f765484"
+            },
+            {
+                "user_name": "TRADEJINI",
+                "admin_name": "",
+                "_id": "5fa5213c01a26f421df9a0a2",
+                "user_type": 1,
+                "ticket_text": "sir any updates",
+                "userId": "5ec55d79e769f2706f765484"
+            },
+            {
+                "user_name": "TRADEJINI",
+                "admin_name": "",
+                "_id": "602010a037f8ad53a41cc6f6",
+                "user_type": 1,
+                "ticket_text": "sir any updates\n",
+                "userId": "5ec55d79e769f2706f765484"
+            },
+            {
+                "user_name": "TRADEJINI",
+                "admin_name": "",
+                "_id": "6024da2a81fbfd763f9024bc",
+                "user_type": 1,
+                "ticket_text": "Update the tickets as sson as possible",
+                "userId": "5ec55d79e769f2706f765484"
+            },
+            {
+                "user_name": "TRADEJINI",
+                "admin_name": "",
+                "_id": "6024da6181fbfd763f9024be",
+                "user_type": 1,
+                "ticket_text": "Updates",
+                "userId": "5ec55d79e769f2706f765484"
+            },
+            {
+                "user_name": "TRADEJINI ",
+                "admin_name": "",
+                "_id": "60d2d6c5340564c461ca2b4a",
+                "user_type": 1,
+                "ticket_text": "Any Updates - updated by Buvi",
+                "userId": "5ec55d79e769f2706f765484"
+            }
+        ],
+        "parentId": "5ec55d79e769f2706f765484",
+        "userId": "5ec55d79e769f2706f765484",
+        "title": "Rozer Bagh",
+        "ctime": 1601029116,
+        "utime": 1626244757,
+        "__v": 18
+    }
+}

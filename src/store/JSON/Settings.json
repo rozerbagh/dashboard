@@ -1,0 +1,21 @@
+{
+    "message": {
+        "cxo_report": 1,
+        "cxo_report_email": [
+            "demoperson@demo.com",
+            "demoperson@demo.com"
+        ],
+        "tech_report": 1,
+        "tech_report_email": [
+            "demoperson@demo.com",
+            "demoperson@demo.com"
+        ],
+        "notify_report_email": [
+            "demoperson@demo.com",
+            "demoperson@demo.com"
+        ],
+        "_id": "5f6b4d7cbaf415f242385087",
+        "userId": "5ec55d79e769f2706f765484",
+        "__v": 55
+    }
+}

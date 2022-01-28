@@ -1,0 +1,74 @@
+{
+    "message": [
+        {
+            "ip": "164.44.8.144",
+            "label": "164.44.8.144",
+            "countryStr": "IN",
+            "stateStr": "GJ",
+            "cityStr": "Gandhidham",
+            "bandwidth": 604,
+            "recived_bandwidth": 30,
+            "transmit_bandwidth": 575
+        },
+        {
+            "ip": "164.44.8.144",
+            "label": "164.44.8.144",
+            "countryStr": "IN",
+            "stateStr": "KA",
+            "cityStr": "Bengaluru",
+            "bandwidth": 203,
+            "recived_bandwidth": 32,
+            "transmit_bandwidth": 171
+        },
+        {
+            "ip": "164.44.8.144",
+            "label": "164.44.8.144",
+            "countryStr": "IN",
+            "stateStr": "TN",
+            "cityStr": "Chennai",
+            "bandwidth": 83,
+            "recived_bandwidth": 17,
+            "transmit_bandwidth": 66
+        },
+        {
+            "ip": "164.44.8.144",
+            "label": "164.44.8.144",
+            "countryStr": "IN",
+            "stateStr": "",
+            "cityStr": "",
+            "bandwidth": 2097,
+            "recived_bandwidth": 2048,
+            "transmit_bandwidth": 49
+        },
+        {
+            "ip": "164.44.8.144",
+            "label": "164.44.8.144",
+            "countryStr": "IN",
+            "stateStr": "MH",
+            "cityStr": "Mumbai",
+            "bandwidth": 541,
+            "recived_bandwidth": 37,
+            "transmit_bandwidth": 504
+        },
+        {
+            "ip": "164.44.8.144",
+            "label": "164.44.8.144",
+            "countryStr": "IN",
+            "stateStr": "TN",
+            "cityStr": "Madurai",
+            "bandwidth": 150,
+            "recived_bandwidth": 25,
+            "transmit_bandwidth": 125
+        },
+        {
+            "ip": "164.44.8.144",
+            "label": "164.44.8.144",
+            "countryStr": "IN",
+            "stateStr": "TG",
+            "cityStr": "Hyderabad",
+            "bandwidth": 107,
+            "recived_bandwidth": 18,
+            "transmit_bandwidth": 89
+        }
+    ]
+}

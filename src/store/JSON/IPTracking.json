@@ -1,0 +1,410 @@
+{
+    "message": [
+        {
+            "wan_ip": "164.44.8.144",
+            "ip_data": [
+                {
+                    "readable": "164.44.8.144\\124.123.81.72",
+                    "internal_ip": "164.44.8.144",
+                    "external_ip": "124.123.81.72",
+                    "bandwidth": 5415,
+                    "recived_bandwidth": 1249,
+                    "transmit_bandwidth": 4168
+                },
+                {
+                    "readable": "164.44.8.144\\49.207.135.121",
+                    "internal_ip": "164.44.8.144",
+                    "external_ip": "49.207.135.121",
+                    "bandwidth": 5199,
+                    "recived_bandwidth": 1187,
+                    "transmit_bandwidth": 4013
+                },
+                {
+                    "readable": "164.44.8.144\\34.141.184.64",
+                    "internal_ip": "164.44.8.144",
+                    "external_ip": "34.141.184.64",
+                    "bandwidth": 123712,
+                    "recived_bandwidth": 120526,
+                    "transmit_bandwidth": 0
+                },
+                {
+                    "readable": "164.44.8.144\\174.131.156.164",
+                    "internal_ip": "164.44.8.144",
+                    "external_ip": "174.131.156.164",
+                    "bandwidth": 34961,
+                    "recived_bandwidth": 2548,
+                    "transmit_bandwidth": 32412
+                },
+                {
+                    "readable": "164.44.8.144\\104.201.186.132",
+                    "internal_ip": "164.44.8.144",
+                    "external_ip": "104.201.186.132",
+                    "bandwidth": 34447,
+                    "recived_bandwidth": 1867,
+                    "transmit_bandwidth": 32580
+                },
+                {
+                    "readable": "164.44.8.144\\27.5.168.215",
+                    "internal_ip": "164.44.8.144",
+                    "external_ip": "27.5.168.215",
+                    "bandwidth": 14803,
+                    "recived_bandwidth": 1949,
+                    "transmit_bandwidth": 12854
+                },
+                {
+                    "readable": "",
+                    "internal_ip": "164.44.8.144",
+                    "external_ip": "Others",
+                    "bandwidth": 20037470,
+                    "recived_bandwidth": 6032682,
+                    "transmit_bandwidth": 14007973
+                }
+            ]
+        },
+        {
+            "wan_ip": "164.44.8.201",
+            "ip_data": [
+                {
+                    "readable": "164.44.8.201\\49.206.18.36",
+                    "internal_ip": "164.44.8.201",
+                    "external_ip": "49.206.18.36",
+                    "bandwidth": 194697,
+                    "recived_bandwidth": 29006,
+                    "transmit_bandwidth": 165691
+                },
+                {
+                    "readable": "164.44.8.201\\122.166.203.28",
+                    "internal_ip": "164.44.8.201",
+                    "external_ip": "122.166.203.28",
+                    "bandwidth": 97513,
+                    "recived_bandwidth": 14913,
+                    "transmit_bandwidth": 82600
+                },
+                {
+                    "readable": "164.44.8.201\\157.47.79.78",
+                    "internal_ip": "164.44.8.201",
+                    "external_ip": "157.47.79.78",
+                    "bandwidth": 50590,
+                    "recived_bandwidth": 0,
+                    "transmit_bandwidth": 45865
+                },
+                {
+                    "readable": "164.44.8.201\\49.37.160.171",
+                    "internal_ip": "164.44.8.201",
+                    "external_ip": "49.37.160.171",
+                    "bandwidth": 48804,
+                    "recived_bandwidth": 0,
+                    "transmit_bandwidth": 46910
+                },
+                {
+                    "readable": "164.44.8.201\\103.205.172.90",
+                    "internal_ip": "164.44.8.201",
+                    "external_ip": "103.205.172.90",
+                    "bandwidth": 69356,
+                    "recived_bandwidth": 9837,
+                    "transmit_bandwidth": 59520
+                },
+                {
+                    "readable": "164.44.8.201\\122.167.103.35",
+                    "internal_ip": "164.44.8.201",
+                    "external_ip": "122.167.103.35",
+                    "bandwidth": 66531,
+                    "recived_bandwidth": 12364,
+                    "transmit_bandwidth": 54167
+                },
+                {
+                    "readable": "164.44.8.201\\175.100.146.119",
+                    "internal_ip": "164.44.8.201",
+                    "external_ip": "175.100.146.119",
+                    "bandwidth": 62695,
+                    "recived_bandwidth": 8519,
+                    "transmit_bandwidth": 54176
+                },
+                {
+                    "readable": "164.44.8.201\\122.171.235.90",
+                    "internal_ip": "164.44.8.201",
+                    "external_ip": "122.171.235.90",
+                    "bandwidth": 49257,
+                    "recived_bandwidth": 0,
+                    "transmit_bandwidth": 43224
+                },
+                {
+                    "readable": "",
+                    "internal_ip": "164.44.8.201",
+                    "external_ip": "Others",
+                    "bandwidth": 19616564,
+                    "recived_bandwidth": 6087369,
+                    "transmit_bandwidth": 13541847
+                }
+            ]
+        },
+        {
+            "wan_ip": "164.44.8.179",
+            "ip_data": [
+                {
+                    "readable": "164.44.8.179\\189.211.214.30",
+                    "internal_ip": "164.44.8.179",
+                    "external_ip": "189.211.214.30",
+                    "bandwidth": 2,
+                    "recived_bandwidth": 2,
+                    "transmit_bandwidth": 0
+                },
+                {
+                    "readable": "164.44.8.179\\206.183.111.60",
+                    "internal_ip": "164.44.8.179",
+                    "external_ip": "206.183.111.60",
+                    "bandwidth": 12356,
+                    "recived_bandwidth": 1635,
+                    "transmit_bandwidth": 10721
+                },
+                {
+                    "readable": "164.44.8.179\\71.6.199.23",
+                    "internal_ip": "164.44.8.179",
+                    "external_ip": "71.6.199.23",
+                    "bandwidth": 1,
+                    "recived_bandwidth": 1,
+                    "transmit_bandwidth": 0
+                },
+                {
+                    "readable": "",
+                    "internal_ip": "164.44.8.179",
+                    "external_ip": "Others",
+                    "bandwidth": 20243648,
+                    "recived_bandwidth": 6160370,
+                    "transmit_bandwidth": 14083279
+                }
+            ]
+        },
+        {
+            "wan_ip": "164.44.8.172",
+            "ip_data": [
+                {
+                    "readable": "164.44.8.172\\210.18.180.129",
+                    "internal_ip": "164.44.8.172",
+                    "external_ip": "210.18.180.129",
+                    "bandwidth": 14171,
+                    "recived_bandwidth": 2948,
+                    "transmit_bandwidth": 11223
+                },
+                {
+                    "readable": "164.44.8.172\\49.206.18.36",
+                    "internal_ip": "164.44.8.172",
+                    "external_ip": "49.206.18.36",
+                    "bandwidth": 13511,
+                    "recived_bandwidth": 3499,
+                    "transmit_bandwidth": 10011
+                },
+                {
+                    "readable": "164.44.8.172\\3.6.242.148",
+                    "internal_ip": "164.44.8.172",
+                    "external_ip": "3.6.242.148",
+                    "bandwidth": 521,
+                    "recived_bandwidth": 137,
+                    "transmit_bandwidth": 384
+                },
+                {
+                    "readable": "164.44.8.172\\106.51.27.50",
+                    "internal_ip": "164.44.8.172",
+                    "external_ip": "106.51.27.50",
+                    "bandwidth": 473,
+                    "recived_bandwidth": 33,
+                    "transmit_bandwidth": 440
+                },
+                {
+                    "readable": "164.44.8.172\\122.166.203.28",
+                    "internal_ip": "164.44.8.172",
+                    "external_ip": "122.166.203.28",
+                    "bandwidth": 9032,
+                    "recived_bandwidth": 5031,
+                    "transmit_bandwidth": 4001
+                },
+                {
+                    "readable": "164.44.8.172\\124.123.83.8",
+                    "internal_ip": "164.44.8.172",
+                    "external_ip": "124.123.83.8",
+                    "bandwidth": 889,
+                    "recived_bandwidth": 188,
+                    "transmit_bandwidth": 702
+                },
+                {
+                    "readable": "164.44.8.172\\122.167.235.63",
+                    "internal_ip": "164.44.8.172",
+                    "external_ip": "122.167.235.63",
+                    "bandwidth": 792,
+                    "recived_bandwidth": 115,
+                    "transmit_bandwidth": 676
+                },
+                {
+                    "readable": "164.44.8.172\\122.167.103.35",
+                    "internal_ip": "164.44.8.172",
+                    "external_ip": "122.167.103.35",
+                    "bandwidth": 544,
+                    "recived_bandwidth": 0,
+                    "transmit_bandwidth": 442
+                },
+                {
+                    "readable": "",
+                    "internal_ip": "164.44.8.172",
+                    "external_ip": "Others",
+                    "bandwidth": 20216074,
+                    "recived_bandwidth": 6150057,
+                    "transmit_bandwidth": 14066121
+                }
+            ]
+        },
+        {
+            "wan_ip": "164.44.8.174",
+            "ip_data": [
+                {
+                    "readable": "164.44.8.174\\157.35.93.58",
+                    "internal_ip": "164.44.8.174",
+                    "external_ip": "157.35.93.58",
+                    "bandwidth": 20576,
+                    "recived_bandwidth": 1021,
+                    "transmit_bandwidth": 19555
+                },
+                {
+                    "readable": "164.44.8.174\\202.140.45.180",
+                    "internal_ip": "164.44.8.174",
+                    "external_ip": "202.140.45.180",
+                    "bandwidth": 10269,
+                    "recived_bandwidth": 0,
+                    "transmit_bandwidth": 10021
+                },
+                {
+                    "readable": "164.44.8.174\\49.37.187.223",
+                    "internal_ip": "164.44.8.174",
+                    "external_ip": "49.37.187.223",
+                    "bandwidth": 4712,
+                    "recived_bandwidth": 0,
+                    "transmit_bandwidth": 4405
+                },
+                {
+                    "readable": "164.44.8.174\\169.149.4.255",
+                    "internal_ip": "164.44.8.174",
+                    "external_ip": "169.149.4.255",
+                    "bandwidth": 3090,
+                    "recived_bandwidth": 0,
+                    "transmit_bandwidth": 3001
+                },
+                {
+                    "readable": "164.44.8.174\\206.189.138.162",
+                    "internal_ip": "164.44.8.174",
+                    "external_ip": "206.189.138.162",
+                    "bandwidth": 23867,
+                    "recived_bandwidth": 3053,
+                    "transmit_bandwidth": 20814
+                },
+                {
+                    "readable": "164.44.8.174\\157.49.92.156",
+                    "internal_ip": "164.44.8.174",
+                    "external_ip": "157.49.92.156",
+                    "bandwidth": 23408,
+                    "recived_bandwidth": 1144,
+                    "transmit_bandwidth": 22264
+                },
+                {
+                    "readable": "164.44.8.174\\137.59.184.226",
+                    "internal_ip": "164.44.8.174",
+                    "external_ip": "137.59.184.226",
+                    "bandwidth": 19629,
+                    "recived_bandwidth": 0,
+                    "transmit_bandwidth": 18493
+                },
+                {
+                    "readable": "164.44.8.174\\49.207.202.168",
+                    "internal_ip": "164.44.8.174",
+                    "external_ip": "49.207.202.168",
+                    "bandwidth": 19233,
+                    "recived_bandwidth": 0,
+                    "transmit_bandwidth": 18130
+                },
+                {
+                    "readable": "",
+                    "internal_ip": "164.44.8.174",
+                    "external_ip": "Others",
+                    "bandwidth": 20131223,
+                    "recived_bandwidth": 6156790,
+                    "transmit_bandwidth": 13977317
+                }
+            ]
+        },
+        {
+            "wan_ip": "164.44.8.114",
+            "ip_data": [
+                {
+                    "readable": "164.44.8.114\\223.184.19.182",
+                    "internal_ip": "164.44.8.114",
+                    "external_ip": "223.184.19.182",
+                    "bandwidth": 20906,
+                    "recived_bandwidth": 2632,
+                    "transmit_bandwidth": 18274
+                },
+                {
+                    "readable": "164.44.8.114\\42.111.133.114",
+                    "internal_ip": "164.44.8.114",
+                    "external_ip": "42.111.133.114",
+                    "bandwidth": 1917,
+                    "recived_bandwidth": 157,
+                    "transmit_bandwidth": 1760
+                },
+                {
+                    "readable": "164.44.8.114\\45.18.221.84",
+                    "internal_ip": "164.44.8.114",
+                    "external_ip": "45.18.221.84",
+                    "bandwidth": 30,
+                    "recived_bandwidth": 14,
+                    "transmit_bandwidth": 16
+                },
+                {
+                    "readable": "164.44.8.114\\219.91.245.26",
+                    "internal_ip": "164.44.8.114",
+                    "external_ip": "219.91.245.26",
+                    "bandwidth": 19,
+                    "recived_bandwidth": 10,
+                    "transmit_bandwidth": 9
+                },
+                {
+                    "readable": "164.44.8.114\\106.222.67.46",
+                    "internal_ip": "164.44.8.114",
+                    "external_ip": "106.222.67.46",
+                    "bandwidth": 36306,
+                    "recived_bandwidth": 1274,
+                    "transmit_bandwidth": 35032
+                },
+                {
+                    "readable": "164.44.8.114\\106.205.244.72",
+                    "internal_ip": "164.44.8.114",
+                    "external_ip": "106.205.244.72",
+                    "bandwidth": 5934,
+                    "recived_bandwidth": 95,
+                    "transmit_bandwidth": 5839
+                },
+                {
+                    "readable": "164.44.8.114\\106.195.35.220",
+                    "internal_ip": "164.44.8.114",
+                    "external_ip": "106.195.35.220",
+                    "bandwidth": 982,
+                    "recived_bandwidth": 141,
+                    "transmit_bandwidth": 841
+                },
+                {
+                    "readable": "164.44.8.114\\157.45.234.233",
+                    "internal_ip": "164.44.8.114",
+                    "external_ip": "157.45.234.233",
+                    "bandwidth": 281,
+                    "recived_bandwidth": 50,
+                    "transmit_bandwidth": 231
+                },
+                {
+                    "readable": "",
+                    "internal_ip": "164.44.8.114",
+                    "external_ip": "Others",
+                    "bandwidth": 20189632,
+                    "recived_bandwidth": 6157635,
+                    "transmit_bandwidth": 14031998
+                }
+            ]
+        }
+    ]
+}

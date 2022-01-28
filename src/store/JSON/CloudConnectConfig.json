@@ -1,0 +1,82 @@
+{
+    "message": [
+        {
+            "_id": "5feb299928bcdb840d7456e1",
+            "vlan": 203,
+            "bandwidth": 4,
+            "userId": "5ec55d79e769f2706f765484",
+            "hostname": "Primary-BCL",
+            "ip": "16.185.38.131",
+            "netmask": "10.195.26.128/26",
+            "mac": "10:03:13:A3:5C:01",
+            "circuit_id": "33112211",
+            "location_a": "MUM",
+            "location_b": "MUM",
+            "state": 1
+        },
+        {
+            "_id": "5feb29d828bcdb840d7456e2",
+            "vlan": 204,
+            "bandwidth": 4,
+            "userId": "5ec55d79e769f2706f765484",
+            "hostname": "Secondary-Hindustan",
+            "ip": "16.185.38.130",
+            "netmask": "10.195.26.128/26",
+            "mac": "44:03:A7:8C:B4:40",
+            "circuit_id": "11332211",
+            "location_a": "MUM",
+            "location_b": "MUM",
+            "state": 2
+        },
+        {
+            "_id": "5feb28d128bcdb840d7456df",
+            "vlan": 201,
+            "bandwidth": 4,
+            "userId": "5ec55d79e769f2706f765484",
+            "hostname": "FO NSE EX",
+            "ip": "16.185.38.132",
+            "netmask": "10.223.71.224/28",
+            "mac": "6C:01:B5:96:C3:A0",
+            "circuit_id": "11223311",
+            "location_a": "MUM",
+            "location_b": "MUM",
+            "state": 1
+        },
+        {
+            "_id": "5feb294728bcdb840d7456e0",
+            "vlan": 202,
+            "bandwidth": 4,
+            "userId": "5ec55d79e769f2706f765484",
+            "hostname": "FO BSE EX",
+            "ip": "16.185.38.133",
+            "netmask": "10.43.70.0/24",
+            "mac": "20:73:1C:BF:F5:C0",
+            "circuit_id": "22113311",
+            "location_a": "MUM",
+            "location_b": "MUM",
+            "state": 1
+        },
+        {
+            "_id": "60efe208f9119997ba28ff9c",
+            "vlan": 203,
+            "bandwidth": 4,
+            "userId": "5ec55d79e769f2706f765484",
+            "hostname": "Vega Golbert",
+            "ip": "16.185.38.134",
+            "netmask": "16.185.38.134/23",
+            "mac": "A1:B2:C3:D4:E5:F6",
+            "circuit_id": "332121",
+            "location_a": "mum",
+            "location_b": "sbc",
+            "state": 1
+        }
+    ],
+    "roles": {
+        "restart": 1,
+        "schedule_reboot": 1,
+        "manage": 1,
+        "billing": 1,
+        "reports": 1,
+        "dashboard_billing": 1
+    }
+}

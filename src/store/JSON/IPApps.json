@@ -1,0 +1,322 @@
+{
+    "message": [
+        {
+            "wan_ip": "164.44.8.144",
+            "ip_data": [
+                {
+                    "ip": "164.44.8.144",
+                    "label": "18002",
+                    "bandwidth": 6204,
+                    "recived_bandwidth": 3244,
+                    "transmit_bandwidth": 2960,
+                    "conn_count": 0,
+                    "active_conn_count": 4
+                },
+                {
+                    "ip": "164.44.8.144",
+                    "label": "18003",
+                    "bandwidth": 14,
+                    "recived_bandwidth": 8,
+                    "transmit_bandwidth": 6,
+                    "conn_count": 0,
+                    "active_conn_count": 0
+                },
+                {
+                    "ip": "164.44.8.144",
+                    "label": "http",
+                    "bandwidth": 1,
+                    "recived_bandwidth": 0,
+                    "transmit_bandwidth": 0,
+                    "conn_count": 3,
+                    "active_conn_count": 1
+                },
+                {
+                    "ip": "164.44.8.144",
+                    "label": "18401",
+                    "bandwidth": 115202,
+                    "recived_bandwidth": 112243,
+                    "transmit_bandwidth": 2959,
+                    "conn_count": 0,
+                    "active_conn_count": 0
+                },
+                {
+                    "ip": "164.44.8.144",
+                    "label": "18001",
+                    "bandwidth": 105085,
+                    "recived_bandwidth": 8092,
+                    "transmit_bandwidth": 96992,
+                    "conn_count": 4,
+                    "active_conn_count": 0
+                },
+                {
+                    "ip": "164.44.8.144",
+                    "label": "18501",
+                    "bandwidth": 8510,
+                    "recived_bandwidth": 8282,
+                    "transmit_bandwidth": 228,
+                    "conn_count": 0,
+                    "active_conn_count": 0
+                },
+                {
+                    "ip": "164.44.8.144",
+                    "label": "14120",
+                    "bandwidth": 491,
+                    "recived_bandwidth": 147,
+                    "transmit_bandwidth": 345,
+                    "conn_count": 0,
+                    "active_conn_count": 0
+                },
+                {
+                    "ip": "164.44.8.144",
+                    "label": "Others",
+                    "bandwidth": 21,
+                    "recived_bandwidth": 15,
+                    "transmit_bandwidth": 6,
+                    "conn_count": 31,
+                    "active_conn_count": 54
+                }
+            ]
+        },
+        {
+            "wan_ip": "164.44.8.201",
+            "ip_data": [
+                {
+                    "ip": "164.44.8.201",
+                    "label": "35024",
+                    "bandwidth": 427097,
+                    "recived_bandwidth": 84701,
+                    "transmit_bandwidth": 342396,
+                    "conn_count": 0,
+                    "active_conn_count": 0
+                },
+                {
+                    "ip": "164.44.8.201",
+                    "label": "35022",
+                    "bandwidth": 366749,
+                    "recived_bandwidth": 76090,
+                    "transmit_bandwidth": 290659,
+                    "conn_count": 0,
+                    "active_conn_count": 0
+                },
+                {
+                    "ip": "164.44.8.201",
+                    "label": "35029",
+                    "bandwidth": 334378,
+                    "recived_bandwidth": 67234,
+                    "transmit_bandwidth": 267145,
+                    "conn_count": 0,
+                    "active_conn_count": 0
+                },
+                {
+                    "ip": "164.44.8.201",
+                    "label": "35006",
+                    "bandwidth": 48749,
+                    "recived_bandwidth": 0,
+                    "transmit_bandwidth": 46144,
+                    "conn_count": 0,
+                    "active_conn_count": 0
+                },
+                {
+                    "ip": "164.44.8.201",
+                    "label": "https",
+                    "bandwidth": 2997863,
+                    "recived_bandwidth": 416751,
+                    "transmit_bandwidth": 2581113,
+                    "conn_count": 7860,
+                    "active_conn_count": 3074
+                },
+                {
+                    "ip": "164.44.8.201",
+                    "label": "35027",
+                    "bandwidth": 475281,
+                    "recived_bandwidth": 93227,
+                    "transmit_bandwidth": 382054,
+                    "conn_count": 0,
+                    "active_conn_count": 0
+                },
+                {
+                    "ip": "164.44.8.201",
+                    "label": "35030",
+                    "bandwidth": 445788,
+                    "recived_bandwidth": 90549,
+                    "transmit_bandwidth": 355239,
+                    "conn_count": 0,
+                    "active_conn_count": 0
+                },
+                {
+                    "ip": "164.44.8.201",
+                    "label": "35025",
+                    "bandwidth": 414063,
+                    "recived_bandwidth": 83038,
+                    "transmit_bandwidth": 331024,
+                    "conn_count": 0,
+                    "active_conn_count": 0
+                },
+                {
+                    "ip": "164.44.8.201",
+                    "label": "Others",
+                    "bandwidth": 1695977,
+                    "recived_bandwidth": 353786,
+                    "transmit_bandwidth": 1344796,
+                    "conn_count": 909,
+                    "active_conn_count": 3147
+                }
+            ]
+        },
+        {
+            "wan_ip": "164.44.8.179",
+            "ip_data": [
+                {
+                    "ip": "164.44.8.179",
+                    "label": "Others",
+                    "bandwidth": 0,
+                    "recived_bandwidth": 0,
+                    "transmit_bandwidth": 0,
+                    "conn_count": 0,
+                    "active_conn_count": 0
+                }
+            ]
+        },
+        {
+            "wan_ip": "164.44.8.172",
+            "ip_data": [
+                {
+                    "ip": "164.44.8.172",
+                    "label": "https",
+                    "bandwidth": 40868,
+                    "recived_bandwidth": 12424,
+                    "transmit_bandwidth": 28444,
+                    "conn_count": 354,
+                    "active_conn_count": 215
+                },
+                {
+                    "ip": "164.44.8.172",
+                    "label": "ipsec-nat-t",
+                    "bandwidth": 103,
+                    "recived_bandwidth": 53,
+                    "transmit_bandwidth": 50,
+                    "conn_count": 0,
+                    "active_conn_count": 2
+                },
+                {
+                    "ip": "164.44.8.172",
+                    "label": "Others",
+                    "bandwidth": 8,
+                    "recived_bandwidth": 8,
+                    "transmit_bandwidth": -1,
+                    "conn_count": 35,
+                    "active_conn_count": 21
+                }
+            ]
+        },
+        {
+            "wan_ip": "164.44.8.174",
+            "ip_data": [
+                {
+                    "ip": "164.44.8.174",
+                    "label": "http",
+                    "bandwidth": 46,
+                    "recived_bandwidth": 23,
+                    "transmit_bandwidth": 23,
+                    "conn_count": 18,
+                    "active_conn_count": 2
+                },
+                {
+                    "ip": "164.44.8.174",
+                    "label": "ntp",
+                    "bandwidth": 1,
+                    "recived_bandwidth": 0,
+                    "transmit_bandwidth": 0,
+                    "conn_count": 0,
+                    "active_conn_count": 1
+                },
+                {
+                    "ip": "164.44.8.174",
+                    "label": "https",
+                    "bandwidth": 174939,
+                    "recived_bandwidth": 23951,
+                    "transmit_bandwidth": 150989,
+                    "conn_count": 1106,
+                    "active_conn_count": 474
+                },
+                {
+                    "ip": "164.44.8.174",
+                    "label": "20303",
+                    "bandwidth": 515,
+                    "recived_bandwidth": 171,
+                    "transmit_bandwidth": 343,
+                    "conn_count": 35,
+                    "active_conn_count": 9
+                },
+                {
+                    "ip": "164.44.8.174",
+                    "label": "ICMP",
+                    "bandwidth": 5,
+                    "recived_bandwidth": 5,
+                    "transmit_bandwidth": 0,
+                    "conn_count": 0,
+                    "active_conn_count": 0
+                },
+                {
+                    "ip": "164.44.8.174",
+                    "label": "Others",
+                    "bandwidth": 8,
+                    "recived_bandwidth": 7,
+                    "transmit_bandwidth": 1,
+                    "conn_count": 30,
+                    "active_conn_count": 18
+                }
+            ]
+        },
+        {
+            "wan_ip": "164.44.8.114",
+            "ip_data": [
+                {
+                    "ip": "164.44.8.114",
+                    "label": "http",
+                    "bandwidth": 43403,
+                    "recived_bandwidth": 1586,
+                    "transmit_bandwidth": 41816,
+                    "conn_count": 59,
+                    "active_conn_count": 19
+                },
+                {
+                    "ip": "164.44.8.114",
+                    "label": "20000",
+                    "bandwidth": 30,
+                    "recived_bandwidth": 10,
+                    "transmit_bandwidth": 20,
+                    "conn_count": 3,
+                    "active_conn_count": 0
+                },
+                {
+                    "ip": "164.44.8.114",
+                    "label": "20001",
+                    "bandwidth": 24006,
+                    "recived_bandwidth": 2940,
+                    "transmit_bandwidth": 21065,
+                    "conn_count": 2,
+                    "active_conn_count": 3
+                },
+                {
+                    "ip": "164.44.8.114",
+                    "label": "https",
+                    "bandwidth": 15,
+                    "recived_bandwidth": 7,
+                    "transmit_bandwidth": 8,
+                    "conn_count": 0,
+                    "active_conn_count": 0
+                },
+                {
+                    "ip": "164.44.8.114",
+                    "label": "Others",
+                    "bandwidth": 5,
+                    "recived_bandwidth": 7,
+                    "transmit_bandwidth": 0,
+                    "conn_count": 30,
+                    "active_conn_count": 20
+                }
+            ]
+        }
+    ]
+}

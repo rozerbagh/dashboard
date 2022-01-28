@@ -1,0 +1,286 @@
+{
+    "message": [
+        {
+            "host_id": "60e59b09b7838789faaab151",
+            "vm_server_hostname": "10.121.1.132-MCR32VM-FO-MEM",
+            "vm_hostname": "10.121.1.132-MCR32VM-FO-MEM",
+            "power_status": "POWERED_ON",
+            "lan_ip": "10.121.1.132",
+            "wan_ip": "164.44.8.201",
+            "vm_os": "Red Hat Enterprise Linux 7 (64-bit)",
+            "m_type": 0,
+            "network_info": [
+                {
+                    "nic": 4000,
+                    "mac_address": "00:50:56:b2:e3:97",
+                    "network_name": "FO-WAN-202",
+                    "ips": [
+                        "10.121.1.132",
+                        "fe80::250:56ff:feb2:e397"
+                    ],
+                    "_id": "60e59b09b7838789faaab152",
+                    "id": "60e59b09b7838789faaab152"
+                }
+            ],
+            "network": [
+                {
+                    "name": "FO-WAN-202",
+                    "ip": "10.121.1.132"
+                }
+            ],
+            "cpu": 8,
+            "ram": "32 GB",
+            "disk": "350 GB",
+            "tags": [
+                "abc",
+                "cdc",
+                "qwerty"
+            ],
+            "vm_backup": 0,
+            "bandwidth": 3750172,
+            "vendor_flag": 0,
+            "vendor_name": "",
+            "vendor_id": ""
+        },
+        {
+            "host_id": "60e59b09b7838789faaab1dc",
+            "vm_server_hostname": "10.121.1.101-MCR32VM-AO-WINEX",
+            "vm_hostname": "10.121.1.101-MCR32VM-AO-WINEX",
+            "power_status": "POWERED_ON",
+            "lan_ip": "10.121.1.101",
+            "wan_ip": "164.44.8.179",
+            "vm_os": "Microsoft Windows Server 2016 (64-bit)",
+            "m_type": 0,
+            "network_info": [
+                {
+                    "nic": 4004,
+                    "mac_address": "00:50:56:b2:4b:e4",
+                    "network_name": "FO-WAN-202",
+                    "ips": [
+                        "10.121.1.101"
+                    ],
+                    "_id": "60e59b09b7838789faaab1dd",
+                    "id": "60e59b09b7838789faaab1dd"
+                },
+                {
+                    "nic": 4005,
+                    "mac_address": "00:50:56:b2:24:e7",
+                    "network_name": "BSE-EX-LINK-201",
+                    "ips": [
+                        "fe80::e502:70da:4ea5:30a3",
+                        "10.121.1.12"
+                    ],
+                    "_id": "60e59b09b7838789faaab1de",
+                    "id": "60e59b09b7838789faaab1de"
+                },
+                {
+                    "nic": 4006,
+                    "mac_address": "00:50:56:b2:24:f7",
+                    "network_name": "NSE-EX-LINK-201",
+                    "ips": [
+                        "fe80::e502:70da:4ea5:30b3",
+                        "10.121.1.13"
+                    ],
+                    "_id": "60e59b09b7838789faaab1fe",
+                    "id": "60e59b09b7838789faaab1fe"
+                },
+                {
+                    "nic": 4003,
+                    "mac_address": "00:50:56:b2:5c:29",
+                    "network_name": "TRADEJINI-MCX-VLAN-301",
+                    "ips": [
+                        "fe80::a036:bbab:2b77:ad3",
+                        "10.121.1.32"
+                    ],
+                    "_id": "60e59b09b7838789faaab1df",
+                    "id": "60e59b09b7838789faaab1df"
+                }
+            ],
+            "network": [
+                {
+                    "name": "FO-WAN-202",
+                    "ip": "10.121.1.101"
+                },
+                {
+                    "name": "BSE-EX-LINK-201",
+                    "ip": "10.121.1.12"
+                },
+                {
+                    "name": "NSE-EX-LINK-301",
+                    "ip": "10.121.1.13"
+                },
+                {
+                    "name": "MCX-EX-LINK-VLAN-401",
+                    "ip": "10.121.1.32"
+                }
+            ],
+            "cpu": 4,
+            "ram": "8 GB",
+            "disk": "200 GB",
+            "tags": [],
+            "vm_backup": 0,
+            "bandwidth": 113,
+            "vendor_flag": 0,
+            "vendor_name": "",
+            "vendor_id": ""
+        },
+        {
+            "host_id": "60e59b09b7838789faaab1ed",
+            "vm_server_hostname": "10.121.1.134-MCR32VM-AO-PROD",
+            "vm_hostname": "10.121.1.134-MCR32VM-AO-PROD",
+            "power_status": "POWERED_ON",
+            "lan_ip": "10.121.1.134",
+            "wan_ip": "164.44.8.144",
+            "vm_os": "Microsoft Windows Server 2012 (64-bit)",
+            "m_type": 0,
+            "network_info": [
+                {
+                    "nic": 4000,
+                    "mac_address": "00:50:56:b2:bb:20",
+                    "network_name": "FO-WAN-202",
+                    "ips": [
+                        "10.121.1.134"
+                    ],
+                    "_id": "60e59b09b7838789faaab1ee",
+                    "id": "60e59b09b7838789faaab1ee"
+                }
+            ],
+            "network": [
+                {
+                    "name": "FO-WAN-202",
+                    "ip": "10.121.1.134"
+                }
+            ],
+            "cpu": 8,
+            "ram": "32 GB",
+            "disk": "300 GB",
+            "tags": [],
+            "vm_backup": 0,
+            "bandwidth": 127769,
+            "vendor_flag": 0,
+            "vendor_name": "",
+            "vendor_id": ""
+        },       
+        {
+            "host_id": "60e59b09b7838789faaab209",
+            "vm_server_hostname": "10.121.1.164-MCR32VM-AO-VEGA",
+            "vm_hostname": "10.121.1.164-MCR32VM-AO-VEGA",
+            "power_status": "POWERED_ON",
+            "lan_ip": "10.121.1.164",
+            "wan_ip": "164.44.8.172",
+            "vm_os": "Microsoft Windows Server 2012 (64-bit)",
+            "m_type": 0,
+            "network_info": [
+                {
+                    "nic": 4001,
+                    "mac_address": "00:50:56:b2:b1:20",
+                    "network_name": "FO-WAN-202",
+                    "ips": [
+                        "10.121.1.164"
+                    ],
+                    "_id": "60e59b09b7838789faaab20a",
+                    "id": "60e59b09b7838789faaab20a"
+                }
+            ],
+            "network": [
+                {
+                    "name": "FO-WAN-202",
+                    "ip": "10.121.1.164"
+                }
+            ],
+            "cpu": 6,
+            "ram": "8 GB",
+            "disk": "110 GB",
+            "tags": [
+                "tag1"
+            ],
+            "vm_backup": 1,
+            "bandwidth": 14307,
+            "vendor_flag": 0,
+            "vendor_name": "",
+            "vendor_id": ""
+        },
+        {
+            "host_id": "60e59b0ab7838789faaab22d",
+            "vm_server_hostname": "10.121.1.152-MCR32VM-AO-ARROW",
+            "vm_hostname": "10.121.1.152-MCR32VM-AO-ARROW",
+            "power_status": "POWERED_ON",
+            "lan_ip": "10.121.1.152",
+            "wan_ip": "164.44.8.174",
+            "vm_os": "Ubuntu Linux (64-bit)",
+            "m_type": 0,
+            "network_info": [
+                {
+                    "nic": 4000,
+                    "mac_address": "00:50:56:b2:0d:74",
+                    "network_name": "FO-WAN-202",
+                    "ips": [
+                        "10.121.1.152"
+                    ],
+                    "_id": "60e59b0ab7838789faaab22e",
+                    "id": "60e59b0ab7838789faaab22e"
+                }
+            ],
+            "network": [
+                {
+                    "name": "FO-WAN-202",
+                    "ip": "10.121.1.152"
+                }
+            ],
+            "cpu": 4,
+            "ram": "8 GB",
+            "disk": "100 GB",
+            "tags": [],
+            "vm_backup": 0,
+            "bandwidth": 95798,
+            "vendor_flag": 0,
+            "vendor_name": "",
+            "vendor_id": ""
+        },
+        {
+            "host_id": "60e59b0ab7838789faaab232",
+            "vm_server_hostname": "10.121.1.156-TJ-PROD-MCR32VM-AO-SERV",
+            "vm_hostname": "10.121.1.156-TJ-PROD-MCR32VM-AO-SERV",
+            "power_status": "POWERED_ON",
+            "lan_ip": "10.121.1.156",
+            "wan_ip": "164.44.8.114",
+            "vm_os": "Microsoft Windows Server 2012 (64-bit)",
+            "m_type": 0,
+            "network_info": [
+                {
+                    "nic": 4000,
+                    "mac_address": "00:50:56:b2:14:bf",
+                    "network_name": "FO-WAN-202",
+                    "ips": [
+                        "10.121.1.156"
+                    ],
+                    "_id": "60e59b0ab7838789faaab233",
+                    "id": "60e59b0ab7838789faaab233"
+                }
+            ],
+            "network": [
+                {
+                    "name": "FO-WAN-202",
+                    "ip": "10.121.1.156"
+                }
+            ],
+            "cpu": 8,
+            "ram": "16 GB",
+            "disk": "300 GB",
+            "tags": [],
+            "vm_backup": 0,
+            "bandwidth": 22117,
+            "vendor_flag": 0,
+            "vendor_name": "",
+            "vendor_id": ""
+        }
+    ],
+    "roles": {
+        "restart": 1,
+        "schedule_reboot": 1,
+        "manage": 1,
+        "billing": 1,
+        "reports": 1,
+        "dashboard_billing": 1
+    }
+}

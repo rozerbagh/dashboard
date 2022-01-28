@@ -1,0 +1,952 @@
+{
+    "message": [
+        {
+            "wan_ip": "164.44.8.144",
+            "external_ip_report": [
+                {
+                    "readable": "164.44.8.144\\49.207.135.121",
+                    "internal_ip": "164.44.8.144",
+                    "external_ip": "49.207.135.121",
+                    "bandwidth": 612,
+                    "recived_bandwidth": 318,
+                    "transmit_bandwidth": 294
+                },
+                {
+                    "readable": "164.44.8.144\\43.242.212.55",
+                    "internal_ip": "164.44.8.144",
+                    "external_ip": "43.242.212.55",
+                    "bandwidth": 15896,
+                    "recived_bandwidth": 15458,
+                    "transmit_bandwidth": 439
+                },
+                {
+                    "readable": "164.44.8.144\\103.232.237.164",
+                    "internal_ip": "164.44.8.144",
+                    "external_ip": "103.232.237.164",
+                    "bandwidth": 3564,
+                    "recived_bandwidth": 911,
+                    "transmit_bandwidth": 2653
+                },
+                {
+                    "readable": "164.44.8.144\\122.166.203.28",
+                    "internal_ip": "164.44.8.144",
+                    "external_ip": "122.166.203.28",
+                    "bandwidth": 1209,
+                    "recived_bandwidth": 272,
+                    "transmit_bandwidth": 937
+                },
+                {
+                    "readable": "",
+                    "internal_ip": "164.44.8.144",
+                    "external_ip": "Others",
+                    "bandwidth": 2801784,
+                    "recived_bandwidth": 813637,
+                    "transmit_bandwidth": 1988146
+                }
+            ],
+            "app_report": [
+                {
+                    "ip": "164.44.8.144",
+                    "label": "18002",
+                    "bandwidth": 633,
+                    "recived_bandwidth": 330,
+                    "transmit_bandwidth": 303,
+                    "conn_count": 0,
+                    "active_conn_count": 0
+                },
+                {
+                    "ip": "164.44.8.144",
+                    "label": "18003",
+                    "bandwidth": 15,
+                    "recived_bandwidth": 8,
+                    "transmit_bandwidth": 7,
+                    "conn_count": 0,
+                    "active_conn_count": 0
+                },
+                {
+                    "ip": "164.44.8.144",
+                    "label": "18401",
+                    "bandwidth": 9861,
+                    "recived_bandwidth": 9590,
+                    "transmit_bandwidth": 271,
+                    "conn_count": 6,
+                    "active_conn_count": 0
+                },
+                {
+                    "ip": "164.44.8.144",
+                    "label": "18501",
+                    "bandwidth": 6036,
+                    "recived_bandwidth": 5868,
+                    "transmit_bandwidth": 167,
+                    "conn_count": 0,
+                    "active_conn_count": 0
+                },
+                {
+                    "ip": "164.44.8.144",
+                    "label": "14120",
+                    "bandwidth": 3564,
+                    "recived_bandwidth": 911,
+                    "transmit_bandwidth": 2653,
+                    "conn_count": 0,
+                    "active_conn_count": 0
+                },
+                {
+                    "ip": "164.44.8.144",
+                    "label": "18001",
+                    "bandwidth": 1153,
+                    "recived_bandwidth": 241,
+                    "transmit_bandwidth": 912,
+                    "conn_count": 0,
+                    "active_conn_count": 0
+                },
+                {
+                    "ip": "164.44.8.144",
+                    "label": "Others",
+                    "bandwidth": 23,
+                    "recived_bandwidth": 14,
+                    "transmit_bandwidth": 10,
+                    "conn_count": 17,
+                    "active_conn_count": 23
+                }
+            ],
+            "geo_report": [
+                {
+                    "ip": "164.44.8.144",
+                    "label": "164.44.8.144",
+                    "countryStr": "IN",
+                    "stateStr": "KA",
+                    "cityStr": "Bengaluru",
+                    "bandwidth": 35,
+                    "recived_bandwidth": 10,
+                    "transmit_bandwidth": 25
+                },
+                {
+                    "ip": "164.44.8.144",
+                    "label": "164.44.8.144",
+                    "countryStr": "IN",
+                    "stateStr": "TN",
+                    "cityStr": "Chennai",
+                    "bandwidth": 16,
+                    "recived_bandwidth": 9,
+                    "transmit_bandwidth": 6
+                },
+                {
+                    "ip": "164.44.8.144",
+                    "label": "164.44.8.144",
+                    "countryStr": "IN",
+                    "stateStr": "",
+                    "cityStr": "",
+                    "bandwidth": 448,
+                    "recived_bandwidth": 435,
+                    "transmit_bandwidth": 14
+                },
+                {
+                    "ip": "164.44.8.144",
+                    "label": "164.44.8.144",
+                    "countryStr": "IN",
+                    "stateStr": "MH",
+                    "cityStr": "Mumbai",
+                    "bandwidth": 107,
+                    "recived_bandwidth": 23,
+                    "transmit_bandwidth": 84
+                }
+            ]
+        },
+        {
+            "wan_ip": "164.44.8.201",
+            "external_ip_report": [
+                {
+                    "readable": "164.44.8.201\\49.206.18.36",
+                    "internal_ip": "164.44.8.201",
+                    "external_ip": "49.206.18.36",
+                    "bandwidth": 4744,
+                    "recived_bandwidth": 1413,
+                    "transmit_bandwidth": 3331
+                },
+                {
+                    "readable": "164.44.8.201\\220.158.157.81",
+                    "internal_ip": "164.44.8.201",
+                    "external_ip": "220.158.157.81",
+                    "bandwidth": 2689,
+                    "recived_bandwidth": 0,
+                    "transmit_bandwidth": 2241
+                },
+                {
+                    "readable": "164.44.8.201\\110.225.249.106",
+                    "internal_ip": "164.44.8.201",
+                    "external_ip": "110.225.249.106",
+                    "bandwidth": 1853,
+                    "recived_bandwidth": 0,
+                    "transmit_bandwidth": 1500
+                },
+                {
+                    "readable": "164.44.8.201\\49.206.12.227",
+                    "internal_ip": "164.44.8.201",
+                    "external_ip": "49.206.12.227",
+                    "bandwidth": 1775,
+                    "recived_bandwidth": 0,
+                    "transmit_bandwidth": 1419
+                },
+                {
+                    "readable": "164.44.8.201\\157.51.183.153",
+                    "internal_ip": "164.44.8.201",
+                    "external_ip": "157.51.183.153",
+                    "bandwidth": 3928,
+                    "recived_bandwidth": 551,
+                    "transmit_bandwidth": 3377
+                },
+                {
+                    "readable": "164.44.8.201\\171.61.73.234",
+                    "internal_ip": "164.44.8.201",
+                    "external_ip": "171.61.73.234",
+                    "bandwidth": 2747,
+                    "recived_bandwidth": 427,
+                    "transmit_bandwidth": 2320
+                },
+                {
+                    "readable": "164.44.8.201\\111.125.218.152",
+                    "internal_ip": "164.44.8.201",
+                    "external_ip": "111.125.218.152",
+                    "bandwidth": 2177,
+                    "recived_bandwidth": 375,
+                    "transmit_bandwidth": 1802
+                },
+                {
+                    "readable": "164.44.8.201\\157.45.1.136",
+                    "internal_ip": "164.44.8.201",
+                    "external_ip": "157.45.1.136",
+                    "bandwidth": 1522,
+                    "recived_bandwidth": 0,
+                    "transmit_bandwidth": 1310
+                },
+                {
+                    "readable": "",
+                    "internal_ip": "164.44.8.201",
+                    "external_ip": "Others",
+                    "bandwidth": 2801630,
+                    "recived_bandwidth": 827830,
+                    "transmit_bandwidth": 1975169
+                }
+            ],
+            "app_report": [
+                {
+                    "ip": "164.44.8.201",
+                    "label": "35024",
+                    "bandwidth": 4994,
+                    "recived_bandwidth": 1525,
+                    "transmit_bandwidth": 3469,
+                    "conn_count": 0,
+                    "active_conn_count": 0
+                },
+                {
+                    "ip": "164.44.8.201",
+                    "label": "35029",
+                    "bandwidth": 4926,
+                    "recived_bandwidth": 1619,
+                    "transmit_bandwidth": 3307,
+                    "conn_count": 0,
+                    "active_conn_count": 0
+                },
+                {
+                    "ip": "164.44.8.201",
+                    "label": "35022",
+                    "bandwidth": 1268,
+                    "recived_bandwidth": 469,
+                    "transmit_bandwidth": 799,
+                    "conn_count": 0,
+                    "active_conn_count": 0
+                },
+                {
+                    "ip": "164.44.8.201",
+                    "label": "35018",
+                    "bandwidth": 655,
+                    "recived_bandwidth": 281,
+                    "transmit_bandwidth": 374,
+                    "conn_count": 0,
+                    "active_conn_count": 11
+                },
+                {
+                    "ip": "164.44.8.201",
+                    "label": "https",
+                    "bandwidth": 49557,
+                    "recived_bandwidth": 10668,
+                    "transmit_bandwidth": 38888,
+                    "conn_count": 400,
+                    "active_conn_count": 268
+                },
+                {
+                    "ip": "164.44.8.201",
+                    "label": "35025",
+                    "bandwidth": 3037,
+                    "recived_bandwidth": 1055,
+                    "transmit_bandwidth": 1982,
+                    "conn_count": 0,
+                    "active_conn_count": 0
+                },
+                {
+                    "ip": "164.44.8.201",
+                    "label": "35026",
+                    "bandwidth": 2736,
+                    "recived_bandwidth": 913,
+                    "transmit_bandwidth": 1823,
+                    "conn_count": 0,
+                    "active_conn_count": 0
+                },
+                {
+                    "ip": "164.44.8.201",
+                    "label": "35021",
+                    "bandwidth": 1935,
+                    "recived_bandwidth": 642,
+                    "transmit_bandwidth": 1293,
+                    "conn_count": 0,
+                    "active_conn_count": 0
+                },
+                {
+                    "ip": "164.44.8.201",
+                    "label": "Others",
+                    "bandwidth": 9110,
+                    "recived_bandwidth": 3803,
+                    "transmit_bandwidth": 5307,
+                    "conn_count": 67,
+                    "active_conn_count": 306
+                }
+            ],
+            "geo_report": [
+                {
+                    "ip": "164.44.8.201",
+                    "label": "trade.memorization.com",
+                    "countryStr": "IN",
+                    "stateStr": "KA",
+                    "cityStr": "Bengaluru",
+                    "bandwidth": 934,
+                    "recived_bandwidth": 243,
+                    "transmit_bandwidth": 691
+                },
+                {
+                    "ip": "164.44.8.201",
+                    "label": "trade.memorization.com",
+                    "countryStr": "IN",
+                    "stateStr": "TN",
+                    "cityStr": "Chennai",
+                    "bandwidth": 371,
+                    "recived_bandwidth": 57,
+                    "transmit_bandwidth": 314
+                },
+                {
+                    "ip": "164.44.8.201",
+                    "label": "trade.memorization.com",
+                    "countryStr": "IN",
+                    "stateStr": "MH",
+                    "cityStr": "Pune",
+                    "bandwidth": 186,
+                    "recived_bandwidth": 53,
+                    "transmit_bandwidth": 132
+                },
+                {
+                    "ip": "164.44.8.201",
+                    "label": "trade.memorization.com",
+                    "countryStr": "IN",
+                    "stateStr": "WB",
+                    "cityStr": "Kolkata",
+                    "bandwidth": 71,
+                    "recived_bandwidth": 21,
+                    "transmit_bandwidth": 51
+                },
+                {
+                    "ip": "164.44.8.201",
+                    "label": "trade.memorization.com",
+                    "countryStr": "IN",
+                    "stateStr": "CH",
+                    "cityStr": "Chandigarh",
+                    "bandwidth": 42,
+                    "recived_bandwidth": 11,
+                    "transmit_bandwidth": 31
+                },
+                {
+                    "ip": "164.44.8.201",
+                    "label": "trade.memorization.com",
+                    "countryStr": "IN",
+                    "stateStr": "KL",
+                    "cityStr": "Trivandrum",
+                    "bandwidth": 27,
+                    "recived_bandwidth": 6,
+                    "transmit_bandwidth": 21
+                },
+                {
+                    "ip": "164.44.8.201",
+                    "label": "trade.memorization.com",
+                    "countryStr": "IN",
+                    "stateStr": "RJ",
+                    "cityStr": "Jodhpur",
+                    "bandwidth": 25,
+                    "recived_bandwidth": 0,
+                    "transmit_bandwidth": 23
+                },
+                {
+                    "ip": "164.44.8.201",
+                    "label": "trade.memorization.com",
+                    "countryStr": "IN",
+                    "stateStr": "RJ",
+                    "cityStr": "Sikar",
+                    "bandwidth": 24,
+                    "recived_bandwidth": 7,
+                    "transmit_bandwidth": 17
+                },
+                {
+                    "ip": "164.44.8.201",
+                    "label": "trade.memorization.com",
+                    "countryStr": "IN",
+                    "stateStr": "TN",
+                    "cityStr": "Devikapuram",
+                    "bandwidth": 17,
+                    "recived_bandwidth": 6,
+                    "transmit_bandwidth": 11
+                },
+                {
+                    "ip": "164.44.8.201",
+                    "label": "trade.memorization.com",
+                    "countryStr": "IN",
+                    "stateStr": "TN",
+                    "cityStr": "Salem",
+                    "bandwidth": 10,
+                    "recived_bandwidth": 0,
+                    "transmit_bandwidth": 9
+                },
+                {
+                    "ip": "164.44.8.201",
+                    "label": "trade.memorization.com",
+                    "countryStr": "IN",
+                    "stateStr": "GJ",
+                    "cityStr": "Ahmedabad",
+                    "bandwidth": 10,
+                    "recived_bandwidth": 3,
+                    "transmit_bandwidth": 7
+                },
+                {
+                    "ip": "164.44.8.201",
+                    "label": "trade.memorization.com",
+                    "countryStr": "IN",
+                    "stateStr": "MH",
+                    "cityStr": "Mumbai",
+                    "bandwidth": 201,
+                    "recived_bandwidth": 39,
+                    "transmit_bandwidth": 162
+                },
+                {
+                    "ip": "164.44.8.201",
+                    "label": "trade.memorization.com",
+                    "countryStr": "IN",
+                    "stateStr": "UP",
+                    "cityStr": "Noida",
+                    "bandwidth": 68,
+                    "recived_bandwidth": 20,
+                    "transmit_bandwidth": 48
+                },
+                {
+                    "ip": "164.44.8.201",
+                    "label": "trade.memorization.com",
+                    "countryStr": "IN",
+                    "stateStr": "TG",
+                    "cityStr": "Hyderabad",
+                    "bandwidth": 63,
+                    "recived_bandwidth": 21,
+                    "transmit_bandwidth": 42
+                },
+                {
+                    "ip": "164.44.8.201",
+                    "label": "trade.memorization.com",
+                    "countryStr": "IN",
+                    "stateStr": "AP",
+                    "cityStr": "Piduguralla",
+                    "bandwidth": 62,
+                    "recived_bandwidth": 8,
+                    "transmit_bandwidth": 54
+                },
+                {
+                    "ip": "164.44.8.201",
+                    "label": "trade.memorization.com",
+                    "countryStr": "IN",
+                    "stateStr": "MP",
+                    "cityStr": "Indore",
+                    "bandwidth": 62,
+                    "recived_bandwidth": 19,
+                    "transmit_bandwidth": 43
+                },
+                {
+                    "ip": "164.44.8.201",
+                    "label": "trade.memorization.com",
+                    "countryStr": "IN",
+                    "stateStr": "RJ",
+                    "cityStr": "Beawar",
+                    "bandwidth": 43,
+                    "recived_bandwidth": 16,
+                    "transmit_bandwidth": 27
+                },
+                {
+                    "ip": "164.44.8.201",
+                    "label": "trade.memorization.com",
+                    "countryStr": "IN",
+                    "stateStr": "TN",
+                    "cityStr": "Coimbatore",
+                    "bandwidth": 38,
+                    "recived_bandwidth": 0,
+                    "transmit_bandwidth": 33
+                },
+                {
+                    "ip": "164.44.8.201",
+                    "label": "trade.memorization.com",
+                    "countryStr": "IN",
+                    "stateStr": "DL",
+                    "cityStr": "New Delhi",
+                    "bandwidth": 32,
+                    "recived_bandwidth": 13,
+                    "transmit_bandwidth": 19
+                },
+                {
+                    "ip": "164.44.8.201",
+                    "label": "trade.memorization.com",
+                    "countryStr": "IN",
+                    "stateStr": "DL",
+                    "cityStr": "Delhi",
+                    "bandwidth": 30,
+                    "recived_bandwidth": 12,
+                    "transmit_bandwidth": 17
+                },
+                {
+                    "ip": "164.44.8.201",
+                    "label": "trade.memorization.com",
+                    "countryStr": "IN",
+                    "stateStr": "TN",
+                    "cityStr": "Erode",
+                    "bandwidth": 29,
+                    "recived_bandwidth": 9,
+                    "transmit_bandwidth": 20
+                },
+                {
+                    "ip": "164.44.8.201",
+                    "label": "trade.memorization.com",
+                    "countryStr": "QA",
+                    "stateStr": "DA",
+                    "cityStr": "Doha",
+                    "bandwidth": 21,
+                    "recived_bandwidth": 0,
+                    "transmit_bandwidth": 19
+                },
+                {
+                    "ip": "164.44.8.201",
+                    "label": "trade.memorization.com",
+                    "countryStr": "IN",
+                    "stateStr": "TN",
+                    "cityStr": "Cuddalore",
+                    "bandwidth": 19,
+                    "recived_bandwidth": 6,
+                    "transmit_bandwidth": 13
+                }
+            ]
+        },
+        {
+            "wan_ip": "164.44.8.179",
+            "external_ip_report": [
+                {
+                    "readable": "164.44.8.179\\5.181.80.171",
+                    "internal_ip": "164.44.8.179",
+                    "external_ip": "5.181.80.171",
+                    "bandwidth": 1,
+                    "recived_bandwidth": 1,
+                    "transmit_bandwidth": 0
+                },
+                {
+                    "readable": "",
+                    "internal_ip": "164.44.8.179",
+                    "external_ip": "Others",
+                    "bandwidth": 2823064,
+                    "recived_bandwidth": 830595,
+                    "transmit_bandwidth": 1992469
+                }
+            ],
+            "app_report": [
+                {
+                    "ip": "164.44.8.179",
+                    "label": "Others",
+                    "bandwidth": 0,
+                    "recived_bandwidth": 0,
+                    "transmit_bandwidth": 0,
+                    "conn_count": 0,
+                    "active_conn_count": 0
+                }
+            ],
+            "geo_report": []
+        },
+        {
+            "wan_ip": "164.44.8.172",
+            "external_ip_report": [
+                {
+                    "readable": "164.44.8.172\\49.206.18.36",
+                    "internal_ip": "164.44.8.172",
+                    "external_ip": "49.206.18.36",
+                    "bandwidth": 28588,
+                    "recived_bandwidth": 6127,
+                    "transmit_bandwidth": 22461
+                },
+                {
+                    "readable": "164.44.8.172\\210.18.180.129",
+                    "internal_ip": "164.44.8.172",
+                    "external_ip": "210.18.180.129",
+                    "bandwidth": 7250,
+                    "recived_bandwidth": 2364,
+                    "transmit_bandwidth": 4886
+                },
+                {
+                    "readable": "164.44.8.172\\106.197.215.50",
+                    "internal_ip": "164.44.8.172",
+                    "external_ip": "106.197.215.50",
+                    "bandwidth": 1497,
+                    "recived_bandwidth": 223,
+                    "transmit_bandwidth": 1274
+                },
+                {
+                    "readable": "164.44.8.172\\49.36.35.233",
+                    "internal_ip": "164.44.8.172",
+                    "external_ip": "49.36.35.233",
+                    "bandwidth": 42,
+                    "recived_bandwidth": 5,
+                    "transmit_bandwidth": 38
+                },
+                {
+                    "readable": "164.44.8.172\\110.225.249.106",
+                    "internal_ip": "164.44.8.172",
+                    "external_ip": "110.225.249.106",
+                    "bandwidth": 1449,
+                    "recived_bandwidth": 344,
+                    "transmit_bandwidth": 1105
+                },
+                {
+                    "readable": "164.44.8.172\\49.206.5.109",
+                    "internal_ip": "164.44.8.172",
+                    "external_ip": "49.206.5.109",
+                    "bandwidth": 610,
+                    "recived_bandwidth": 89,
+                    "transmit_bandwidth": 521
+                },
+                {
+                    "readable": "164.44.8.172\\122.167.103.35",
+                    "internal_ip": "164.44.8.172",
+                    "external_ip": "122.167.103.35",
+                    "bandwidth": 411,
+                    "recived_bandwidth": 58,
+                    "transmit_bandwidth": 353
+                },
+                {
+                    "readable": "164.44.8.172\\122.166.203.28",
+                    "internal_ip": "164.44.8.172",
+                    "external_ip": "122.166.203.28",
+                    "bandwidth": 332,
+                    "recived_bandwidth": 65,
+                    "transmit_bandwidth": 268
+                },
+                {
+                    "readable": "",
+                    "internal_ip": "164.44.8.172",
+                    "external_ip": "Others",
+                    "bandwidth": 2782886,
+                    "recived_bandwidth": 821321,
+                    "transmit_bandwidth": 1961563
+                }
+            ],
+            "app_report": [
+                {
+                    "ip": "164.44.8.172",
+                    "label": "http",
+                    "bandwidth": 5,
+                    "recived_bandwidth": 2,
+                    "transmit_bandwidth": 3,
+                    "conn_count": 3,
+                    "active_conn_count": 3
+                },
+                {
+                    "ip": "164.44.8.172",
+                    "label": "https",
+                    "bandwidth": 40267,
+                    "recived_bandwidth": 9308,
+                    "transmit_bandwidth": 30959,
+                    "conn_count": 169,
+                    "active_conn_count": 99
+                },
+                {
+                    "ip": "164.44.8.172",
+                    "label": "ipsec-nat-t",
+                    "bandwidth": 62,
+                    "recived_bandwidth": 32,
+                    "transmit_bandwidth": 30,
+                    "conn_count": 0,
+                    "active_conn_count": 0
+                },
+                {
+                    "ip": "164.44.8.172",
+                    "label": "Others",
+                    "bandwidth": 5,
+                    "recived_bandwidth": 4,
+                    "transmit_bandwidth": 0,
+                    "conn_count": 17,
+                    "active_conn_count": 10
+                }
+            ],
+            "geo_report": [
+                {
+                    "ip": "164.44.8.172",
+                    "label": "e.tradejini.com",
+                    "countryStr": "IN",
+                    "stateStr": "CH",
+                    "cityStr": "Chandigarh",
+                    "bandwidth": 48,
+                    "recived_bandwidth": 15,
+                    "transmit_bandwidth": 33
+                },
+                {
+                    "ip": "164.44.8.172",
+                    "label": "e.tradejini.com",
+                    "countryStr": "IN",
+                    "stateStr": "KA",
+                    "cityStr": "Bengaluru",
+                    "bandwidth": 1221,
+                    "recived_bandwidth": 264,
+                    "transmit_bandwidth": 957
+                }
+            ]
+        },
+        {
+            "wan_ip": "164.44.8.174",
+            "external_ip_report": [
+                {
+                    "readable": "164.44.8.174\\152.57.218.222",
+                    "internal_ip": "164.44.8.174",
+                    "external_ip": "152.57.218.222",
+                    "bandwidth": 1328,
+                    "recived_bandwidth": 31,
+                    "transmit_bandwidth": 1296
+                },
+                {
+                    "readable": "164.44.8.174\\117.196.35.146",
+                    "internal_ip": "164.44.8.174",
+                    "external_ip": "117.196.35.146",
+                    "bandwidth": 372,
+                    "recived_bandwidth": 141,
+                    "transmit_bandwidth": 231
+                },
+                {
+                    "readable": "164.44.8.174\\157.51.15.11",
+                    "internal_ip": "164.44.8.174",
+                    "external_ip": "157.51.15.11",
+                    "bandwidth": 55,
+                    "recived_bandwidth": 14,
+                    "transmit_bandwidth": 41
+                },
+                {
+                    "readable": "164.44.8.174\\104.248.123.197",
+                    "internal_ip": "164.44.8.174",
+                    "external_ip": "104.248.123.197",
+                    "bandwidth": 43,
+                    "recived_bandwidth": 14,
+                    "transmit_bandwidth": 29
+                },
+                {
+                    "readable": "164.44.8.174\\223.237.204.39",
+                    "internal_ip": "164.44.8.174",
+                    "external_ip": "223.237.204.39",
+                    "bandwidth": 769,
+                    "recived_bandwidth": 146,
+                    "transmit_bandwidth": 622
+                },
+                {
+                    "readable": "164.44.8.174\\37.9.170.254",
+                    "internal_ip": "164.44.8.174",
+                    "external_ip": "37.9.170.254",
+                    "bandwidth": 58,
+                    "recived_bandwidth": 18,
+                    "transmit_bandwidth": 39
+                },
+                {
+                    "readable": "164.44.8.174\\115.165.166.94",
+                    "internal_ip": "164.44.8.174",
+                    "external_ip": "115.165.166.94",
+                    "bandwidth": 44,
+                    "recived_bandwidth": 14,
+                    "transmit_bandwidth": 29
+                },
+                {
+                    "readable": "164.44.8.174\\121.142.87.218",
+                    "internal_ip": "164.44.8.174",
+                    "external_ip": "121.142.87.218",
+                    "bandwidth": 29,
+                    "recived_bandwidth": 9,
+                    "transmit_bandwidth": 20
+                },
+                {
+                    "readable": "",
+                    "internal_ip": "164.44.8.174",
+                    "external_ip": "Others",
+                    "bandwidth": 2820367,
+                    "recived_bandwidth": 830209,
+                    "transmit_bandwidth": 1990162
+                }
+            ],
+            "app_report": [
+                {
+                    "ip": "164.44.8.174",
+                    "label": "http",
+                    "bandwidth": 18,
+                    "recived_bandwidth": 9,
+                    "transmit_bandwidth": 9,
+                    "conn_count": 6,
+                    "active_conn_count": 1
+                },
+                {
+                    "ip": "164.44.8.174",
+                    "label": "ntp",
+                    "bandwidth": 1,
+                    "recived_bandwidth": 0,
+                    "transmit_bandwidth": 0,
+                    "conn_count": 1,
+                    "active_conn_count": 1
+                },
+                {
+                    "ip": "164.44.8.174",
+                    "label": "https",
+                    "bandwidth": 2538,
+                    "recived_bandwidth": 340,
+                    "transmit_bandwidth": 2199,
+                    "conn_count": 20,
+                    "active_conn_count": 12
+                },
+                {
+                    "ip": "164.44.8.174",
+                    "label": "20303",
+                    "bandwidth": 225,
+                    "recived_bandwidth": 73,
+                    "transmit_bandwidth": 152,
+                    "conn_count": 15,
+                    "active_conn_count": 3
+                },
+                {
+                    "ip": "164.44.8.174",
+                    "label": "Others",
+                    "bandwidth": 3,
+                    "recived_bandwidth": 3,
+                    "transmit_bandwidth": 1,
+                    "conn_count": 13,
+                    "active_conn_count": 9
+                }
+            ],
+            "geo_report": [
+                {
+                    "ip": "164.44.8.174",
+                    "label": "api.tradejini.com",
+                    "countryStr": "IN",
+                    "stateStr": "GJ",
+                    "cityStr": "Ahmedabad",
+                    "bandwidth": 17,
+                    "recived_bandwidth": 7,
+                    "transmit_bandwidth": 11
+                },
+                {
+                    "ip": "164.44.8.174",
+                    "label": "api.tradejini.com",
+                    "countryStr": "IN",
+                    "stateStr": "MH",
+                    "cityStr": "Pune",
+                    "bandwidth": 62,
+                    "recived_bandwidth": 0,
+                    "transmit_bandwidth": 62
+                },
+                {
+                    "ip": "164.44.8.174",
+                    "label": "api.tradejini.com",
+                    "countryStr": "IN",
+                    "stateStr": "KA",
+                    "cityStr": "Bengaluru",
+                    "bandwidth": 22,
+                    "recived_bandwidth": 0,
+                    "transmit_bandwidth": 18
+                }
+            ]
+        },
+        {
+            "wan_ip": "164.44.8.114",
+            "external_ip_report": [
+                {
+                    "readable": "164.44.8.114\\157.45.6.67",
+                    "internal_ip": "164.44.8.114",
+                    "external_ip": "157.45.6.67",
+                    "bandwidth": 251,
+                    "recived_bandwidth": 79,
+                    "transmit_bandwidth": 172
+                },
+                {
+                    "readable": "164.44.8.114\\223.184.19.182",
+                    "internal_ip": "164.44.8.114",
+                    "external_ip": "223.184.19.182",
+                    "bandwidth": 103,
+                    "recived_bandwidth": 35,
+                    "transmit_bandwidth": 68
+                },
+                {
+                    "readable": "164.44.8.114\\114.31.156.5",
+                    "internal_ip": "164.44.8.114",
+                    "external_ip": "114.31.156.5",
+                    "bandwidth": 6,
+                    "recived_bandwidth": 4,
+                    "transmit_bandwidth": 3
+                },
+                {
+                    "readable": "",
+                    "internal_ip": "164.44.8.114",
+                    "external_ip": "Others",
+                    "bandwidth": 2822705,
+                    "recived_bandwidth": 830478,
+                    "transmit_bandwidth": 1992226
+                }
+            ],
+            "app_report": [
+                {
+                    "ip": "164.44.8.114",
+                    "label": "http",
+                    "bandwidth": 6,
+                    "recived_bandwidth": 4,
+                    "transmit_bandwidth": 3,
+                    "conn_count": 1,
+                    "active_conn_count": 0
+                },
+                {
+                    "ip": "164.44.8.114",
+                    "label": "20001",
+                    "bandwidth": 354,
+                    "recived_bandwidth": 113,
+                    "transmit_bandwidth": 241,
+                    "conn_count": 0,
+                    "active_conn_count": 2
+                },
+                {
+                    "ip": "164.44.8.114",
+                    "label": "Others",
+                    "bandwidth": 3,
+                    "recived_bandwidth": 3,
+                    "transmit_bandwidth": 0,
+                    "conn_count": 13,
+                    "active_conn_count": 8
+                }
+            ],
+            "geo_report": [
+                {
+                    "ip": "164.44.8.114",
+                    "label": "vega.tradejini.com",
+                    "countryStr": "IN",
+                    "stateStr": "KA",
+                    "cityStr": "Bengaluru",
+                    "bandwidth": 16,
+                    "recived_bandwidth": 5,
+                    "transmit_bandwidth": 11
+                }
+            ]
+        }
+    ]
+}

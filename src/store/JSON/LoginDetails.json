@@ -1,0 +1,32 @@
+{
+    "message": "Logged in!",
+    "user": {
+        "user_flag": 1,
+        "status": 1,
+        "name": "Rozer bagh",
+        "emai": "demo@demo.com",
+        "sub_user_type": 0,
+        "uid": "5ec55d79e769f2706f765484",
+        "u_id": "5ec55d79e769f2706f765484",
+        "user_type": 1,
+        "user_roles": {
+            "services": [
+                {
+                    "name": "VM Manage"
+                }
+            ],
+            "reports": {
+                "restart": 1,
+                "schedule_reboot": 1,
+                "manage": 1,
+                "billing": 1,
+                "reports": 1,
+                "dashboard_billing": 1
+            }
+        },
+        "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJwYXJlbnRfaWQiOiI1ZWM1NWQ3OWU3NjlmMjcwNmY3NjU0ODQiLCJ1c2VySWQiOiI1ZWM1NWQ3OWU3NjlmMjcwNmY3NjU0ODQiLCJjdXN0b21lcl9udW1iZXIiOjMyMTU2LCJlbWFpIjoidHJhZGVqaW5pQGdtYWlsLmNvbSIsInVzZXJfcm9sZXMiOnsic2VydmljZXMiOlt7Im5hbWUiOiJWTSBNYW5hZ2UifV0sInJlcG9ydHMiOnsicmVzdGFydCI6MSwic2NoZWR1bGVfcmVib290IjoxLCJtYW5hZ2UiOjEsImJpbGxpbmciOjEsInJlcG9ydHMiOjEsImRhc2hib2FyZF9iaWxsaW5nIjoxfX0sImxvZ2luX3RpbWUiOjE2Mjc1NDE5NTAsInN1Yl91c2VyX3R5cGUiOjAsImlhdCI6MTYyNzU0MTk1MCwiZXhwIjoxNjI3NjI4MzUwfQ.FJzuSXAcPe4oqMsug_q7xOFaWA0M1u-sHXz8HLbCY8o",
+        "customer_number": 90312,
+        "user_img": "",
+        "user_img_thumb": ""
+    }
+}

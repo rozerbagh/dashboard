@@ -1,0 +1,88 @@
+{
+    "message_ip_225": [
+        {
+            "source_ip": "10.144.71.124",
+            "destination_ip": "224.0.0.13",
+            "destination_port": "-",
+            "total_bandwidth": 26,
+            "recived_bandwidth": 0,
+            "transmit_bandwidth": 0
+        },
+        {
+            "source_ip": "10.144.71.124",
+            "destination_ip": "224.0.0.1",
+            "destination_port": "-",
+            "total_bandwidth": 11,
+            "recived_bandwidth": 0,
+            "transmit_bandwidth": 0
+        }
+    ],
+    "message_ip_226": [
+        {
+            "source_ip": "10.144.71.125",
+            "destination_ip": "172.19.18.14",
+            "destination_port": "10870",
+            "total_bandwidth": 186,
+            "recived_bandwidth": 85,
+            "transmit_bandwidth": 46
+        },
+        {
+            "source_ip": "10.144.71.125",
+            "destination_ip": "239.50.50.22",
+            "destination_port": "-",
+            "total_bandwidth": 9,
+            "recived_bandwidth": 0,
+            "transmit_bandwidth": 0
+        },
+        {
+            "source_ip": "10.144.71.125",
+            "destination_ip": "239.50.50.72",
+            "destination_port": "-",
+            "total_bandwidth": 8,
+            "recived_bandwidth": 0,
+            "transmit_bandwidth": 0
+        },
+        {
+            "source_ip": "10.144.71.125",
+            "destination_ip": "239.50.50.12",
+            "destination_port": "-",
+            "total_bandwidth": 5,
+            "recived_bandwidth": 0,
+            "transmit_bandwidth": 0
+        },
+        {
+            "source_ip": "10.144.71.125",
+            "destination_ip": "172.19.13.120",
+            "destination_port": "10820",
+            "total_bandwidth": 9892,
+            "recived_bandwidth": 6421,
+            "transmit_bandwidth": 3470
+        },
+        {
+            "source_ip": "10.144.71.125",
+            "destination_ip": "172.19.12.25",
+            "destination_port": "10810",
+            "total_bandwidth": 9367,
+            "recived_bandwidth": 6275,
+            "transmit_bandwidth": 3091
+        },
+        {
+            "source_ip": "10.144.71.125",
+            "destination_ip": "172.19.125.71",
+            "destination_port": "icmp",
+            "total_bandwidth": 24,
+            "recived_bandwidth": 0,
+            "transmit_bandwidth": 0
+        }
+    ],
+    "message_ip_oth": [
+        {
+            "source_ip": "xx.xx.xx.xx.",
+            "destination_ip": "xx.xx.xx.xx",
+            "destination_port": "--",
+            "total_bandwidth": 0,
+            "recived_bandwidth": 0,
+            "transmit_bandwidth": 0
+        }
+    ]
+}

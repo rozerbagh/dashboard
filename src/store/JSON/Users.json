@@ -1,0 +1,176 @@
+{
+    "message": [
+        {
+            "openstack": {
+                "username": "",
+                "password": ""
+            },
+            "parent_key": 32156,
+            "auto_renew": 0,
+            "status": 1,
+            "user_type": 1,
+            "sub_user_type": 1,
+            "zohoId": "",
+            "company_name": "",
+            "login_time": 1625675405,
+            "login_attempt": 0,
+            "role_update": 1,
+            "user_address": "",
+            "user_address_zipcode": "",
+            "user_gst": "",
+            "user_exchange_connectivity": "",
+            "user_exchange_ctcl_id": "",
+            "user_exchange_leased_line": "",
+            "otp": 957657,
+            "otp_time": 1625117541,
+            "user_image": "",
+            "user_image_thumb": "",
+            "user_logo": "",
+            "user_logo_thumb": "",
+            "_id": "60dc816f92370934f9f577ae",
+            "password_date": "2021-07-01T05:33:58.001Z",
+            "roles": [
+                {
+                    "reports": [
+                        "5fabda117f66ee7bcbd8bf66",
+                        "5fabda1d7f66ee7bcbd8bf67",
+                        "5fabda2b7f66ee7bcbd8bf68",
+                        "5fabf827b7cd21be13e9d9ef",
+                        "5fa268aaa390aed7bfa14dfd",
+                        "5fa26468a390aed7bfa14df1"
+                    ],
+                    "_id": "60dc816f92370934f9f577af",
+                    "serviceId": "5eb24cc200343f2b792bbba1",
+                    "exp_date": "2022-09-10T18:30:00.000Z",
+                    "id": "60dc816f92370934f9f577af"
+                }
+            ],
+            "user_changes": [
+                {
+                    "user_name": "",
+                    "user_email": "",
+                    "user_phone": "",
+                    "status": 0,
+                    "message": "Password changed by Primary User",
+                    "_id": "60e0c4ed778369623bfd34b5",
+                    "id": "60e0c4ed778369623bfd34b5"
+                },
+                {
+                    "user_name": "rozer b",
+                    "user_email": "rozerbagh456@gmail.com",
+                    "user_phone": "8050849022",
+                    "status": 1,
+                    "message": "Primary User changed name, ",
+                    "_id": "60e2e24b06a62c1b9c6d3925",
+                    "id": "60e2e24b06a62c1b9c6d3925"
+                },
+                {
+                    "user_name": "rozer",
+                    "user_email": "rozerbagh456@gmail.com",
+                    "user_phone": "8050849022",
+                    "status": 1,
+                    "message": "Primary User changed name, ",
+                    "_id": "60e2fb5c06a62c1b9c6d3b3a",
+                    "id": "60e2fb5c06a62c1b9c6d3b3a"
+                }
+            ],
+            "user_password_changes": [
+                {
+                    "user_password": "19Vicky93@",
+                    "_id": "60dd53c6e046d148a61f1935",
+                    "id": "60dd53c6e046d148a61f1935"
+                },
+                {
+                    "user_password": "Vicky1993@",
+                    "_id": "60e00e0a9eaf7318c30d6f40",
+                    "id": "60e00e0a9eaf7318c30d6f40"
+                },
+                {
+                    "user_password": "Zybisys@123",
+                    "_id": "60e0c4ed778369623bfd34b6",
+                    "id": "60e0c4ed778369623bfd34b6"
+                }
+            ],
+            "userKey": 43813,
+            "userPin": 5818,
+            "user_name": "Parx joe",
+            "user_email": "parxjoe@gmail.com",
+            "user_phone": "8050789654",
+            "__v": 20,
+            "id": "60dc816f92370934f9f577ae"
+        },
+        {
+            "openstack": {
+                "username": "",
+                "password": ""
+            },
+            "parent_key": 32156,
+            "auto_renew": 0,
+            "status": 0,
+            "user_type": 1,
+            "sub_user_type": 0,
+            "zohoId": "",
+            "company_name": "",
+            "login_time": 0,
+            "login_attempt": 0,
+            "role_update": 0,
+            "user_address": "",
+            "user_address_zipcode": "",
+            "user_gst": "",
+            "user_exchange_connectivity": "",
+            "user_exchange_ctcl_id": "",
+            "user_exchange_leased_line": "",
+            "otp": 0,
+            "otp_time": 0,
+            "user_image": "",
+            "user_image_thumb": "",
+            "user_logo": "",
+            "user_logo_thumb": "",
+            "_id": "60e287f1778369623bfd3518",
+            "password_date": "2021-07-05T04:17:53.089Z",
+            "roles": [
+                {
+                    "reports": [],
+                    "_id": "60e287f1778369623bfd3519",
+                    "serviceId": "5eb24cc200343f2b792bbba1",
+                    "exp_date": "2022-09-10T18:30:00.000Z",
+                    "id": "60e287f1778369623bfd3519"
+                }
+            ],
+            "user_changes": [
+                {
+                    "user_name": "",
+                    "user_email": "",
+                    "user_phone": "",
+                    "status": 0,
+                    "message": "Password changed by Primary User",
+                    "_id": "60e28817778369623bfd351b",
+                    "id": "60e28817778369623bfd351b"
+                },
+                {
+                    "user_name": "Alex Mercer",
+                    "user_email": "alex@design.com",
+                    "user_phone": "9990007778",
+                    "status": 0,
+                    "message": "Primary User changed email, Primary User changed phone, ",
+                    "_id": "60e4320a06a62c1b9c6d3b5c",
+                    "id": "60e4320a06a62c1b9c6d3b5c"
+                }
+            ],
+            "user_password_changes": [
+                {
+                    "user_password": "",
+                    "_id": "60e28817778369623bfd351c",
+                    "id": "60e28817778369623bfd351c"
+                }
+            ],
+            "userKey": 42764,
+            "userPin": 4259,
+            "user_name": "Alex Mercer",
+            "user_email": "alexander@design.com",
+            "user_phone": "9990011111",
+            "__v": 2,
+            "id": "60e287f1778369623bfd3518"
+        }
+    ]
+}

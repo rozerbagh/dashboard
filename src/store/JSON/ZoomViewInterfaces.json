@@ -1,0 +1,171 @@
+{
+    "message": [
+        [
+            {
+                "interfaceName": "interface 2 | TJ-LAN-502",
+                "time": "11:17 am",
+                "time_str": 1627537620,
+                "in_bandwidth": "821884.052667",
+                "out_bandwidth": "1745424.980815",
+                "inunicast": "8274.96304",
+                "outunicast": "12470.8378",
+                "inMulticast": "0",
+                "outMulticast": "0"
+            },
+            {
+                "interfaceName": "interface 2 | TJ-LAN-502",
+                "time": "11:18 am",
+                "time_str": 1627537680,
+                "in_bandwidth": "837191.160568",
+                "out_bandwidth": "1729856.606446",
+                "inunicast": "8355.261745",
+                "outunicast": "12578.041269",
+                "inMulticast": "0",
+                "outMulticast": "0"
+            },
+            {
+                "interfaceName": "interface 2 | TJ-LAN-502",
+                "time": "11:19 am",
+                "time_str": 1627537741,
+                "in_bandwidth": "827461.109828",
+                "out_bandwidth": "1714950.676092",
+                "inunicast": "8207.363291",
+                "outunicast": "12469.336216",
+                "inMulticast": "0",
+                "outMulticast": "0"
+            },
+            {
+                "interfaceName": "interface 2 | TJ-LAN-502",
+                "time": "11:20 am",
+                "time_str": 1627537800,
+                "in_bandwidth": "2493977.719854",
+                "out_bandwidth": "1789907.736002",
+                "inunicast": "8365.127477",
+                "outunicast": "12396.274813",
+                "inMulticast": "0",
+                "outMulticast": "0"
+            },
+            {
+                "interfaceName": "interface 2 | TJ-LAN-502",
+                "time": "11:21 am",
+                "time_str": 1627537860,
+                "in_bandwidth": "2437640.142109",
+                "out_bandwidth": "1804130.235992",
+                "inunicast": "8585.177696",
+                "outunicast": "12823.252809",
+                "inMulticast": "0",
+                "outMulticast": "0"
+            },
+            {
+                "interfaceName": "interface 2 | TJ-LAN-502",
+                "time": "11:22 am",
+                "time_str": 1627537920,
+                "in_bandwidth": "2412847.990321",
+                "out_bandwidth": "1948146.494309",
+                "inunicast": "8881.437669",
+                "outunicast": "13037.27706",
+                "inMulticast": "0",
+                "outMulticast": "0"
+            },
+            {
+                "interfaceName": "interface 2 | TJ-LAN-502",
+                "time": "11:23 am",
+                "time_str": 1627537980,
+                "in_bandwidth": "1675467.339726",
+                "out_bandwidth": "1910240.320829",
+                "inunicast": "8723.555281",
+                "outunicast": "13063.645127",
+                "inMulticast": "0",
+                "outMulticast": "0"
+            },
+            {
+                "interfaceName": "interface 2 | TJ-LAN-502",
+                "time": "11:24 am",
+                "time_str": 1627538040,
+                "in_bandwidth": "1292729.646313",
+                "out_bandwidth": "1911125.097438",
+                "inunicast": "8568.122574",
+                "outunicast": "12955.991932",
+                "inMulticast": "0",
+                "outMulticast": "0"
+            },
+            {
+                "interfaceName": "interface 2 | TJ-LAN-502",
+                "time": "11:25 am",
+                "time_str": 1627538100,
+                "in_bandwidth": "874617.875187",
+                "out_bandwidth": "1801494.259781",
+                "inunicast": "8565.013583",
+                "outunicast": "12890.268039",
+                "inMulticast": "0",
+                "outMulticast": "0"
+            },
+            {
+                "interfaceName": "interface 2 | TJ-LAN-502",
+                "time": "11:26 am",
+                "time_str": 1627538160,
+                "in_bandwidth": "2476114.908914",
+                "out_bandwidth": "1890043.478371",
+                "inunicast": "8618.326205",
+                "outunicast": "12986.435686",
+                "inMulticast": "0",
+                "outMulticast": "0"
+            },
+            {
+                "interfaceName": "interface 2 | TJ-LAN-502",
+                "time": "11:27 am",
+                "time_str": 1627538220,
+                "in_bandwidth": "947352.128686",
+                "out_bandwidth": "1794436.122298",
+                "inunicast": "8547.244491",
+                "outunicast": "12855.611633",
+                "inMulticast": "0",
+                "outMulticast": "0"
+            },
+            {
+                "interfaceName": "interface 2 | TJ-LAN-502",
+                "time": "11:28 am",
+                "time_str": 1627538280,
+                "in_bandwidth": "838124.660247",
+                "out_bandwidth": "1783864.067588",
+                "inunicast": "8390.995571",
+                "outunicast": "12837.243522",
+                "inMulticast": "0",
+                "outMulticast": "0"
+            },
+            {
+                "interfaceName": "interface 2 | TJ-LAN-502",
+                "time": "11:29 am",
+                "time_str": 1627538340,
+                "in_bandwidth": "855637.777653",
+                "out_bandwidth": "1830819.706531",
+                "inunicast": "8571.384087",
+                "outunicast": "13077.594257",
+                "inMulticast": "0",
+                "outMulticast": "0"
+            },
+            {
+                "interfaceName": "interface 2 | TJ-LAN-502",
+                "time": "11:30 am",
+                "time_str": 1627538400,
+                "in_bandwidth": "834134.917179",
+                "out_bandwidth": "1824955.607778",
+                "inunicast": "8535.306958",
+                "outunicast": "13105.297921",
+                "inMulticast": "0",
+                "outMulticast": "0"
+            },
+            {
+                "interfaceName": "interface 2 | TJ-LAN-502",
+                "time": "11:31 am",
+                "time_str": 1627538460,
+                "in_bandwidth": "821439.712468",
+                "out_bandwidth": "1753939.865156",
+                "inunicast": "8295.714846",
+                "outunicast": "12704.100388",
+                "inMulticast": "0",
+                "outMulticast": "0"
+            }
+        ]
+    ]
+}

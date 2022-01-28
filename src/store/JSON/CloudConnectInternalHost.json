@@ -1,0 +1,46 @@
+{
+    "message": [
+        {
+            "ip": "10.144.71.124",
+            "total": 163,
+            "recived": 0,
+            "transmit": 163
+        },
+        {
+            "ip": "10.144.71.125",
+            "total": 85558,
+            "recived": 55983,
+            "transmit": 29575
+        },
+        {
+            "ip": "10.144.71.126",
+            "total": 322,
+            "recived": 0,
+            "transmit": 322
+        },
+        {
+            "ip": "10.144.71.127",
+            "total": 1357,
+            "recived": 0,
+            "transmit": 1357
+        },
+        {
+            "ip": "10.144.71.128",
+            "total": 623,
+            "recived": 235,
+            "transmit": 388
+        },
+        {
+            "ip": "10.144.71.129",
+            "total": 2614,
+            "recived": 827,
+            "transmit": 1784
+        },
+        {
+            "ip": "10.144.71.130",
+            "total": 140,
+            "recived": 0,
+            "transmit": 140
+        }
+    ]
+}

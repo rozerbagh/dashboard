@@ -1,0 +1,46 @@
+{
+    "message": [
+        {
+            "lan_ip": "10.121.1.132",
+            "wan_ip": "164.44.8.201",
+            "_id": "60e59b09b7838789faaab151",
+            "vm_hostname_alias": "10.121.1.132-MCR32VM-FO-MEM",
+            "id": "60e59b09b7838789faaab151"
+        },
+        {
+            "lan_ip": "10.121.1.101",
+            "wan_ip": "164.44.8.179",
+            "_id": "60e59b09b7838789faaab1dc",
+            "vm_hostname_alias": "10.121.1.101-MCR32VM-AO-WINEX",
+            "id": "60e59b09b7838789faaab1dc"
+        },
+        {
+            "lan_ip": "10.121.1.134",
+            "wan_ip": "164.44.8.144",
+            "_id": "60e59b09b7838789faaab1ed",
+            "vm_hostname_alias": "10.121.1.134-MCR32VM-AO-PROD",
+            "id": "60e59b09b7838789faaab1ed"
+        },
+        {
+            "lan_ip": "0.121.1.164",
+            "wan_ip": "164.44.8.172",
+            "_id": "60e59b09b7838789faaab209",
+            "vm_hostname_alias": "0.121.1.164-MCR32VM-AO-VEGA",
+            "id": "60e59b09b7838789faaab209"
+        },
+        {
+            "lan_ip": "10.121.1.152",
+            "wan_ip": "164.44.8.174",
+            "_id": "60e59b0ab7838789faaab22d",
+            "vm_hostname_alias": "10.121.1.152-MCR32VM-AO-ARROW",
+            "id": "60e59b0ab7838789faaab22d"
+        },
+        {
+            "lan_ip": "10.121.1.156",
+            "wan_ip": "164.44.8.114",
+            "_id": "60e59b0ab7838789faaab232",
+            "vm_hostname_alias": "10.121.1.156-MCR32VM-AO-SERV",
+            "id": "60e59b0ab7838789faaab232"
+        }
+    ]
+}

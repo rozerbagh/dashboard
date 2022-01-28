@@ -1,0 +1,60 @@
+{
+    "message": [
+        {
+            "label": "18401",
+            "bandwidth": 59991,
+            "recived_bandwidth": 58451,
+            "transmit_bandwidth": 1541,
+            "conn_count": 0,
+            "active_conn_count": 0
+        },
+        {
+            "label": "18001",
+            "bandwidth": 49507,
+            "recived_bandwidth": 3818,
+            "transmit_bandwidth": 45689,
+            "conn_count": 176,
+            "active_conn_count": 0
+        },
+        {
+            "label": "18501",
+            "bandwidth": 4748,
+            "recived_bandwidth": 4622,
+            "transmit_bandwidth": 127,
+            "conn_count": 0,
+            "active_conn_count": 0
+        },
+        {
+            "label": "18002",
+            "bandwidth": 2426,
+            "recived_bandwidth": 1270,
+            "transmit_bandwidth": 1156,
+            "conn_count": 0,
+            "active_conn_count": 1
+        },
+        {
+            "label": "14120",
+            "bandwidth": 218,
+            "recived_bandwidth": 60,
+            "transmit_bandwidth": 158,
+            "conn_count": 0,
+            "active_conn_count": 0
+        },
+        {
+            "label": "18003",
+            "bandwidth": 8,
+            "recived_bandwidth": 4,
+            "transmit_bandwidth": 3,
+            "conn_count": 0,
+            "active_conn_count": 0
+        },
+        {
+            "label": "18004",
+            "bandwidth": 6,
+            "recived_bandwidth": 3,
+            "transmit_bandwidth": 2,
+            "conn_count": 0,
+            "active_conn_count": 0
+        }
+    ]
+}
