@@ -162,6 +162,7 @@ function PrivilegeTable(props) {
                                                     <FiLock style={{ marginRight: "5px", color: "#007bff", fontSize: "1rem" }} />
                                                     <span>Password</span>
                                                 </li>
+
                                                 <li onClick={(e) => props.handleDeleteUsers(e, row.id)} style={{ color: "red" }}>
                                                     <FiDelete style={{ marginRight: "5px", color: "crimson", fontSize: "1rem" }} />
                                                     <span>Delete</span>
